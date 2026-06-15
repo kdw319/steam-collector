@@ -22,6 +22,8 @@ jobs:
         run: pip install requests
 
       - name: Run collector
+        env:
+          GAMES_POPULARITY_KEY: ${{ secrets.GAMES_POPULARITY_KEY }}
         run: python fetch_steam.py
 
       - name: Commit data.json

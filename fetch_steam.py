@@ -1,9 +1,14 @@
 """
-Steam '직전 주 신작' 수집 스크립트 (GitHub Actions에서 실행).
+Steam 데이터 수집 스크립트 (GitHub Actions에서 실행).
 구글 IP가 막히는 문제를, 안정적인 GitHub 러너 IP에서 Steam을 직접 호출해 우회한다.
-결과를 data.json 으로 저장한다 → Apps Script가 그 파일을 읽어 시트에 기록한다.
+
+출력 2개:
+  - data.json        : 직전 주 신작 행 목록 (Apps Script updateNewReleasesFromGitHub 용)
+  - appdetails.json  : appid -> 게임 상세 맵 (Apps Script getGameDetails 가 조회)
+                       신작 + 최고판매 100 + SteamSpy 2주 의 모든 appid를 커버
 """
 
+import os
 import json
 import re
 import time
@@ -30,7 +35,6 @@ def last_week_range(today=None):
 
 
 def parse_english_date(s):
-    """'10 Jun, 2026' / 'Jun 10, 2026' → date. 일자 없으면 None."""
     mon = re.search(r"Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec", s)
     day = re.search(r"\b(\d{1,2})\b", s)
     year = re.search(r"\b(20\d{2})\b", s)
@@ -41,9 +45,13 @@ def parse_english_date(s):
 
 def get_new_release_appids():
     """검색 결과에서 'appid + 출시일'을 뽑아 직전 주 출시작만 반환."""
-    r = requests.get(SEARCH_URL, headers=HEADERS, timeout=30)
-    r.raise_for_status()
-    html = r.json().get("results_html", "")
+    try:
+        r = requests.get(SEARCH_URL, headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        html = r.json().get("results_html", "")
+    except Exception as e:
+        print(f"신작 검색 실패: {e}")
+        return []
 
     start, end = last_week_range()
     print(f"직전 주 범위: {start} ~ {end}")
@@ -55,14 +63,51 @@ def get_new_release_appids():
         if d and start <= d <= end:
             ids.append(appid)
     print(f"직전 주 출시작: {len(ids)}개")
-    return ids
+    return list(dict.fromkeys(ids))
+
+
+def get_top_seller_appids():
+    """games-popularity 에서 최고 판매 100위 appid 목록."""
+    key = os.environ.get("GAMES_POPULARITY_KEY", "")
+    url = f"https://games-popularity.com/swagger/api/top-sellers?apiKey={key}"
+    try:
+        r = requests.get(url, headers={"accept": "*/*"}, timeout=30)
+        data = r.json().get("data", [])
+        ids = []
+        for x in data:
+            pos = x.get("position", 0)
+            sid = x.get("steamId")
+            if sid and 0 < pos <= 100:
+                ids.append(str(sid))
+        print(f"최고 판매 appid: {len(ids)}개")
+        return list(dict.fromkeys(ids))
+    except Exception as e:
+        print(f"top-sellers 실패: {e}")
+        return []
+
+
+def get_steamspy_appids():
+    """SteamSpy 최근 2주 인기 appid 목록."""
+    try:
+        r = requests.get("https://steamspy.com/api.php?request=top100in2weeks", timeout=30)
+        ids = [str(k) for k in r.json().keys()]
+        print(f"SteamSpy appid: {len(ids)}개")
+        return ids
+    except Exception as e:
+        print(f"steamspy 실패: {e}")
+        return []
 
 
 def get_game(appid):
     """appdetails로 게임 상세 정보 조회 (429 시 재시도)."""
     url = f"https://store.steampowered.com/api/appdetails?appids={appid}&l=korean"
     for attempt in range(1, 6):
-        r = requests.get(url, headers=HEADERS, timeout=30)
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=30)
+        except Exception as e:
+            print(f"  appid {appid} 시도 {attempt}/5 예외: {e}")
+            time.sleep(2 * attempt)
+            continue
         if r.status_code == 200:
             try:
                 payload = r.json()[appid]
@@ -89,22 +134,34 @@ def get_game(appid):
 
 
 def main():
-    ids = get_new_release_appids()
-    games = []
-    for appid in ids:
+    new_ids = get_new_release_appids()
+    top_ids = get_top_seller_appids()
+    spy_ids = get_steamspy_appids()
+
+    all_ids = list(dict.fromkeys(new_ids + top_ids + spy_ids))  # 순서 유지 + 중복 제거
+    print(f"전체 상세조회 대상: {len(all_ids)}개")
+
+    details = {}
+    for i, appid in enumerate(all_ids, 1):
         g = get_game(appid)
         if g:
-            games.append(g)
-            print(f"{len(games)}/{len(ids)} 수집: {g['name']}")
-        time.sleep(1.5)
+            details[appid] = g
+        if i % 20 == 0:
+            print(f"  진행 {i}/{len(all_ids)} (성공 {len(details)})")
+        time.sleep(1.2)
 
-    out = {
-        "updated": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-        "games": games,
-    }
+    now = datetime.datetime.now(datetime.timezone.utc).isoformat()
+
+    # 1) 신작 시트용 (기존 형식 유지)
+    new_games = [details[i] for i in new_ids if i in details]
     with open("data.json", "w", encoding="utf-8") as f:
-        json.dump(out, f, ensure_ascii=False, indent=2)
-    print(f"완료: {len(games)}개 저장 → data.json")
+        json.dump({"updated": now, "games": new_games}, f, ensure_ascii=False, indent=2)
+
+    # 2) 상세 정보 맵 (Apps Script getGameDetails 가 조회)
+    with open("appdetails.json", "w", encoding="utf-8") as f:
+        json.dump({"updated": now, "details": details}, f, ensure_ascii=False, indent=2)
+
+    print(f"완료: 신작 {len(new_games)}개 / 상세맵 {len(details)}개 저장")
 
 
 if __name__ == "__main__":
