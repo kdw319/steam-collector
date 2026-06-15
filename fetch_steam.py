@@ -15,10 +15,7 @@ import time
 import datetime
 import requests
 
-SEARCH_URL = (
-    "https://store.steampowered.com/search/results/"
-    "?filter=popularnew&category1=998&cc=us&l=english&json=1&start=0&count=100&infinite=1"
-)
+TARGET_NEW_RELEASES = 30  # 신작 목표 개수 (부족하면 이전 주까지 거슬러 채움)
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 MONTHS = {m: i for i, m in enumerate(
     ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
@@ -43,27 +40,51 @@ def parse_english_date(s):
     return datetime.date(int(year.group(1)), MONTHS[mon.group(0)], int(day.group(1)))
 
 
-def get_new_release_appids():
-    """검색 결과에서 'appid + 출시일'을 뽑아 직전 주 출시작만 반환."""
+def fetch_search_page(start):
+    """popularnew 검색 한 페이지(results_html) 가져오기."""
+    url = (
+        "https://store.steampowered.com/search/results/"
+        f"?filter=popularnew&category1=998&cc=us&l=english&json=1&start={start}&count=100&infinite=1"
+    )
     try:
-        r = requests.get(SEARCH_URL, headers=HEADERS, timeout=30)
+        r = requests.get(url, headers=HEADERS, timeout=30)
         r.raise_for_status()
-        html = r.json().get("results_html", "")
+        return r.json().get("results_html", "")
     except Exception as e:
-        print(f"신작 검색 실패: {e}")
-        return []
+        print(f"  검색 페이지 start={start} 실패: {e}")
+        return ""
 
-    start, end = last_week_range()
-    print(f"직전 주 범위: {start} ~ {end}")
 
-    ids = []
-    for m in re.finditer(r'data-ds-appid="(\d+)"[\s\S]*?search_released[^>]*>([^<]*)<', html):
-        appid, date_str = m.group(1), m.group(2).strip()
-        d = parse_english_date(date_str)
-        if d and start <= d <= end:
-            ids.append(appid)
-    print(f"직전 주 출시작: {len(ids)}개")
-    return list(dict.fromkeys(ids))
+def get_new_release_appids():
+    """직전 주 끝(지난 일요일) 이전에 출시된 게임을 최신순으로 최대 TARGET개 반환.
+    직전 주만으로 부족하면 그 이전 주들까지 자동으로 거슬러 올라가 채운다."""
+    _, end = last_week_range()  # 직전 주 일요일
+    print(f"기준: {end} 이전 출시작 중 최신순 최대 {TARGET_NEW_RELEASES}개")
+
+    seen = set()
+    candidates = []  # (date, appid)
+    for start in (0, 100, 200):  # 최대 300개 후보 풀
+        html = fetch_search_page(start)
+        if not html:
+            continue
+        for m in re.finditer(r'data-ds-appid="(\d+)"[\s\S]*?search_released[^>]*>([^<]*)<', html):
+            appid, date_str = m.group(1), m.group(2).strip()
+            if appid in seen:
+                continue
+            d = parse_english_date(date_str)
+            if d and d <= end:  # 직전 주 끝 이전(=이미 출시된 것)
+                seen.add(appid)
+                candidates.append((d, appid))
+        time.sleep(1.0)
+
+    candidates.sort(key=lambda x: x[0], reverse=True)  # 최신순
+    chosen = candidates[:TARGET_NEW_RELEASES]
+    ids = [appid for _, appid in chosen]
+    if chosen:
+        print(f"후보 {len(candidates)}개 중 최신 {len(ids)}개 선정 ({chosen[0][0]} ~ {chosen[-1][0]})")
+    else:
+        print("후보 없음")
+    return ids
 
 
 def get_top_seller_appids():
