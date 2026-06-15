@@ -1,0 +1,71 @@
+{
+  "updated": "2026-06-15T01:24:08.974560+00:00",
+  "games": [
+    {
+      "appid": "4704690",
+      "name": "MECCHA CHAMELEON",
+      "genres": "캐주얼",
+      "developers": "lemorion_1224",
+      "publishers": "lemorion_1224",
+      "languages": "영어, 일본어, 스페인어 - 스페인, 중국어 간체, 한국어, 프랑스어, 이탈리아어, 독일어, 아랍어, 포르투갈어 - 브라질, 러시아어, 중국어 번체",
+      "price": "$4.79",
+      "release_date": "2026년 6월 9일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224"
+    },
+    {
+      "appid": "3844970",
+      "name": "노움 강도단",
+      "genres": "액션, 어드벤처",
+      "developers": "Fobri",
+      "publishers": "Fobri",
+      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 핀란드어, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 스페인어 - 중남미, 튀르키예어, 우크라이나어",
+      "price": "$8.99",
+      "release_date": "2026년 6월 10일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/44a9cd63490b7749e00eca15dd39b6ecbbec65ca/header_koreana.jpg?t=1781100001"
+    },
+    {
+      "appid": "2004680",
+      "name": "보이드링 바운드",
+      "genres": "액션, 어드벤처, RPG",
+      "developers": "Hatchery Games",
+      "publishers": "Hatchery Games",
+      "languages": "영어*, 프랑스어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어*, 포르투갈어 - 브라질*, 러시아어*, 중국어 간체**음성이 지원되는 언어",
+      "price": "$22.49",
+      "release_date": "2026년 6월 9일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/78f0bcda22c6d49b81831aa41e4831ed52893c19/header_alt_assets_0.jpg?t=1781263470"
+    },
+    {
+      "appid": "2679100",
+      "name": "Witchspire",
+      "genres": "어드벤처, RPG, 앞서 해보기",
+      "developers": "Envar Games",
+      "publishers": "Envar Games, Envar Publishing",
+      "languages": "영어*, 프랑스어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체, 우크라이나어, 스페인어 - 중남미*음성이 지원되는 언어",
+      "price": "$19.54",
+      "release_date": "2026년 6월 10일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/3cda9eb9541b9059e38afcabfa25e495f66f6d72/header_alt_assets_1_koreana.jpg?t=1781118464"
+    },
+    {
+      "appid": "1805110",
+      "name": "Solarpunk™",
+      "genres": "어드벤처, 인디, 시뮬레이션",
+      "developers": "Cyberwave",
+      "publishers": "rokaplay, Metaroot",
+      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 포르투갈어 - 브라질, 중국어 번체, 중국어 간체, 일본어, 한국어, 러시아어, 폴란드어, 튀르키예어, 우크라이나어",
+      "price": "$22.99",
+      "release_date": "2026년 6월 8일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/9512e707770080499c95c50976ff1b6f712a95ba/header.jpg?t=1780935129"
+    },
+    {
+      "appid": "3337380",
+      "name": "Tabletop Tavern",
+      "genres": "전략",
+      "developers": "TJ",
+      "publishers": "Frostbloom, Gamirror Games",
+      "languages": "영어, 프랑스어, 독일어, 스페인어 - 스페인, 러시아어, 스페인어 - 중남미, 일본어, 한국어, 중국어 간체, 중국어 번체",
+      "price": "$14.99",
+      "release_date": "2026년 6월 11일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/be1671a7a42ef807118e9770ae4f3df65050cf37/header.jpg?t=1781266198"
+    }
+  ]
+}
