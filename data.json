@@ -1,17 +1,6 @@
 {
-  "updated": "2026-06-29T03:43:33.734810+00:00",
+  "updated": "2026-07-06T03:00:48.238324+00:00",
   "games": [
-    {
-      "appid": "4323990",
-      "name": "EMPULSE",
-      "genres": "액션, 앞서 해보기",
-      "developers": "1047 Games",
-      "publishers": "1047 Games",
-      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체, 스페인어 - 중남미, 중국어 번체, 튀르키예어, 우크라이나어*음성이 지원되는 언어",
-      "price": "$14.99",
-      "release_date": "2026년 6월 24일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323990/0c3db5731395be25b56008bffda2f27ed08e703d/header.jpg?t=1782317659"
-    },
     {
       "appid": "1431300",
       "name": "SAND: Raiders of Sophie",
@@ -19,7 +8,7 @@
       "developers": "Hologryph, TowerHaus",
       "publishers": "tinyBuild",
       "languages": "영어, 우크라이나어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 폴란드어, 포르투갈어 - 브라질, 중국어 간체",
-      "price": "$19.74",
+      "price": "₩ 16,190",
       "release_date": "2026년 6월 22일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789"
     },
@@ -57,17 +46,6 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/44a9cd63490b7749e00eca15dd39b6ecbbec65ca/header_koreana.jpg?t=1781100001"
     },
     {
-      "appid": "4121170",
-      "name": "Fears to Fathom® - Scratch Creek",
-      "genres": "어드벤처, 캐주얼, 인디",
-      "developers": "Rayll",
-      "publishers": "Rayll Studios",
-      "languages": "영어*, 프랑스어, 독일어, 포르투갈어 - 브라질, 러시아어, 스페인어 - 스페인, 일본어, 중국어 간체*음성이 지원되는 언어",
-      "price": "$7.99",
-      "release_date": "2026년 6월 10일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/803663dce78da494e9d061cf6652ade566b96331/header.jpg?t=1781141362"
-    },
-    {
       "appid": "2679100",
       "name": "Witchspire",
       "genres": "어드벤처, RPG, 앞서 해보기",
@@ -77,6 +55,17 @@
       "price": "$22.99",
       "release_date": "2026년 6월 10일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/fb7f504258d3ace8267a937de3fb9be130c246d8/header.jpg?t=1781704867"
+    },
+    {
+      "appid": "4121170",
+      "name": "Fears to Fathom® - Scratch Creek",
+      "genres": "어드벤처, 캐주얼, 인디",
+      "developers": "Rayll",
+      "publishers": "Rayll Studios",
+      "languages": "영어*, 프랑스어, 독일어, 포르투갈어 - 브라질, 러시아어, 스페인어 - 스페인, 일본어, 중국어 간체*음성이 지원되는 언어",
+      "price": "$7.99",
+      "release_date": "2026년 6월 10일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/803663dce78da494e9d061cf6652ade566b96331/header.jpg?t=1781141362"
     },
     {
       "appid": "4704690",
@@ -120,7 +109,7 @@
       "languages": "영어*, 프랑스어, 이탈리아어, 독일어*, 스페인어 - 스페인, 폴란드어*, 러시아어*, 중국어 간체, 일본어, 포르투갈어 - 브라질*음성이 지원되는 언어",
       "price": "$49.99",
       "release_date": "2026년 6월 5일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1782140243"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1782739446"
     },
     {
       "appid": "3059520",
@@ -134,15 +123,15 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059520/76dc8ac45f1bd6dec26e04434ca1c8814e7bb330/header.jpg?t=1780590545"
     },
     {
-      "appid": "4731620",
-      "name": "포춘 밀",
-      "genres": "캐주얼, 인디, 시뮬레이션",
-      "developers": "Lavaflame2",
-      "publishers": "Lavaflame2",
-      "languages": "영어, 프랑스어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체",
-      "price": "$7.99",
+      "appid": "2186990",
+      "name": "Fatekeeper",
+      "genres": "액션, RPG, 앞서 해보기",
+      "developers": "Paraglacial",
+      "publishers": "THQ Nordic",
+      "languages": "영어",
+      "price": "$9.99",
       "release_date": "2026년 6월 2일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/0d866870149ba853c02520e1838d7fcf3f639c12/header_koreana.jpg?t=1782064634"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186990/4a98bac064656da89ddf8dedee1acd39405cac14/header_alt_assets_0.jpg?t=1780927614"
     },
     {
       "appid": "1875580",
@@ -164,7 +153,7 @@
       "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 러시아어, 중국어 간체, 스페인어 - 중남미, 중국어 번체, 포르투갈어 - 브라질, 튀르키예어*음성이 지원되는 언어",
       "price": "$69.99",
       "release_date": "2026년 5월 26일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/8ddb6405b2fba0de9acaa145232d53be09fe7259/header_koreana.jpg?t=1782467029"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/8ddb6405b2fba0de9acaa145232d53be09fe7259/header_koreana.jpg?t=1782807423"
     },
     {
       "appid": "1118520",
@@ -175,7 +164,7 @@
       "languages": "영어, 프랑스어, 이탈리아어, 독일어, 폴란드어, 포르투갈어 - 브라질, 스페인어 - 중남미, 중국어 간체",
       "price": "$31.99",
       "release_date": "2026년 5월 25일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/277ab7a2ad1bbce0f4837bb37a3c86d109bd5258/header.jpg?t=1782408391"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/277ab7a2ad1bbce0f4837bb37a3c86d109bd5258/header.jpg?t=1783011783"
     },
     {
       "appid": "2215200",
@@ -186,7 +175,7 @@
       "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어, 덴마크어, 네덜란드어, 일본어*, 한국어, 폴란드어*, 포르투갈어 - 브라질*, 러시아어, 중국어 간체, 스페인어 - 중남미*, 중국어 번체*음성이 지원되는 언어",
       "price": "$69.99",
       "release_date": "2026년 5월 22일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/a07a9a6c0c9c1225f5b260b4f29fe40e6f099f6b/header.jpg?t=1780591479"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/a07a9a6c0c9c1225f5b260b4f29fe40e6f099f6b/header.jpg?t=1783025238"
     },
     {
       "appid": "2863680",
@@ -233,17 +222,6 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681030/bf7f9326f54ea82bc05ee0c9c45aaacb81b1850b/header_alt_assets_2_koreana.jpg?t=1782205065"
     },
     {
-      "appid": "3526710",
-      "name": "에브리씽 이즈 크랩: 동물 진화 로그라이트 | Everything is Crab",
-      "genres": "액션, 인디, 시뮬레이션, 전략",
-      "developers": "Odd Dreams Digital",
-      "publishers": "Secret Mode",
-      "languages": "영어, 프랑스어, 독일어, 스페인어 - 스페인, 일본어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 한국어, 이탈리아어, 튀르키예어, 우크라이나어, 중국어 번체",
-      "price": "$8.99",
-      "release_date": "2026년 5월 8일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/82db26ec9a97e8dc8c840169cce77b1b53a33c6f/header_koreana.jpg?t=1782406610"
-    },
-    {
       "appid": "3672400",
       "name": "Farever",
       "genres": "액션, 어드벤처, RPG, 앞서 해보기",
@@ -277,17 +255,6 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1782258835"
     },
     {
-      "appid": "3105440",
-      "name": "Heroes of Might and Magic: Olden Era 히어로즈 오브 마이트 앤 매직: 올든 에라",
-      "genres": "RPG, 전략, 앞서 해보기",
-      "developers": "Unfrozen",
-      "publishers": "Hooded Horse",
-      "languages": "영어*, 프랑스어, 독일어, 스페인어 - 스페인, 한국어, 폴란드어, 러시아어, 중국어 간체, 중국어 번체, 체코어, 헝가리어, 일본어, 튀르키예어, 우크라이나어, 이탈리아어, 포르투갈어 - 브라질*음성이 지원되는 언어",
-      "price": "$29.99",
-      "release_date": "2026년 4월 30일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105440/1b4d6c4d876197e9806177e9853ccb8a13fb8274/header_koreana.jpg?t=1779786083"
-    },
-    {
       "appid": "4197610",
       "name": "Librarian: Tidy Up the Arcane Library!",
       "genres": "캐주얼, 인디, 시뮬레이션",
@@ -297,6 +264,17 @@
       "price": "$5.09",
       "release_date": "2026년 4월 30일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197610/2162be8e12b6bcbf696e508a4b6297c378c33bda/header.jpg?t=1777553917"
+    },
+    {
+      "appid": "3105440",
+      "name": "Heroes of Might and Magic: Olden Era 히어로즈 오브 마이트 앤 매직: 올든 에라",
+      "genres": "RPG, 전략, 앞서 해보기",
+      "developers": "Unfrozen",
+      "publishers": "Hooded Horse",
+      "languages": "영어*, 프랑스어, 독일어, 스페인어 - 스페인, 한국어, 폴란드어, 러시아어, 중국어 간체, 중국어 번체, 체코어, 헝가리어, 일본어, 튀르키예어, 우크라이나어, 이탈리아어, 포르투갈어 - 브라질*음성이 지원되는 언어",
+      "price": "$29.99",
+      "release_date": "2026년 4월 30일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105440/1b4d6c4d876197e9806177e9853ccb8a13fb8274/header_koreana.jpg?t=1783068617"
     },
     {
       "appid": "3124540",
@@ -318,18 +296,40 @@
       "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어*, 폴란드어*, 포르투갈어 - 브라질*, 러시아어*, 스페인어 - 중남미*, 중국어 번체*, 중국어 간체*, 튀르키예어*음성이 지원되는 언어",
       "price": "$29.99",
       "release_date": "2023년 10월 17일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/80f21a42e378b93e8fbb68ee43103be8ab84891b/header.jpg?t=1780334052"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/80f21a42e378b93e8fbb68ee43103be8ab84891b/header.jpg?t=1782839766"
     },
     {
-      "appid": "3265700",
-      "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
-      "genres": "액션, 인디, 전략",
-      "developers": "poncle, Nosebleed Interactive",
-      "publishers": "poncle",
-      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체, 한국어, 폴란드어",
-      "price": "$8.99",
-      "release_date": "2026년 4월 21일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1776925935"
+      "appid": "4244510",
+      "name": "프랫폴",
+      "genres": "액션, 어드벤처, 인디",
+      "developers": "Quad Head",
+      "publishers": "Quad Head",
+      "languages": "영어, 독일어, 일본어, 한국어, 러시아어, 중국어 간체, 포르투갈어 - 브라질, 네덜란드어, 프랑스어, 스페인어 - 스페인, 폴란드어, 스페인어 - 중남미, 튀르키예어",
+      "price": "$6.39",
+      "release_date": "2026년 4월 20일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/d0865ad5304f9c87c60238ad3752c1ec08de5469/header_koreana.jpg?t=1780503325"
+    },
+    {
+      "appid": "2416450",
+      "name": "MOUSE: P.I. For Hire",
+      "genres": "액션, 인디",
+      "developers": "Fumi Games",
+      "publishers": "PlaySide",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체, 튀르키예어, 우크라이나어*음성이 지원되는 언어",
+      "price": "$23.99",
+      "release_date": "2026년 4월 16일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/298ff2fc3f6a700d022b8d3ec58047f2b426be03/header.jpg?t=1780271651"
+    },
+    {
+      "appid": "3357650",
+      "name": "PRAGMATA",
+      "genres": "액션, 어드벤처",
+      "developers": "CAPCOM Co., Ltd.",
+      "publishers": "CAPCOM Co., Ltd.",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어, 스페인어 - 중남미*, 포르투갈어 - 브라질*, 폴란드어, 러시아어*, 중국어 간체*, 중국어 번체, 일본어*, 한국어**음성이 지원되는 언어",
+      "price": "$59.99",
+      "release_date": "2026년 4월 16일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1777351016"
     }
   ]
 }
