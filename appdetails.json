@@ -1,16 +1,126 @@
 {
-  "updated": "2026-08-17T01:09:29.199070+00:00",
+  "updated": "2026-08-24T01:11:00.582936+00:00",
   "details": {
-    "3091140": {
-      "appid": "3091140",
-      "name": "Lootbound",
-      "genres": "어드벤처, 캐주얼, 인디, RPG, 전략",
-      "developers": "ArtDock",
-      "publishers": "Dreland Enterprises",
-      "languages": "영어, 러시아어, 프랑스어, 이탈리아어, 독일어, 헝가리어, 인도네시아어, 스페인어 - 중남미, 중국어 간체, 한국어, 말레이어, 폴란드어, 포르투갈어 - 브라질, 루마니아어, 태국어, 튀르키예어, 우크라이나어, 스웨덴어, 일본어, 필리핀어",
+    "4131730": {
+      "appid": "4131730",
+      "name": "VHOLUME",
+      "genres": "캐주얼, 인디",
+      "developers": "Nathan Grange, Léonard Lemaitre, Niels Tiercelin",
+      "publishers": "IronEqual",
+      "languages": "영어*, 프랑스어, 독일어, 스페인어 - 스페인, 중국어 간체, 한국어, 일본어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 튀르키예어, 우크라이나어*음성이 지원되는 언어",
+      "price": "$7.20",
+      "release_date": "2026년 8월 21일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131730/1b262360aa9cfa7ce376b2677b3c641556a7254f/header.jpg?t=1787478152"
+    },
+    "2584270": {
+      "appid": "2584270",
+      "name": "Mortal Shell II",
+      "genres": "액션, RPG",
+      "developers": "Cold Symmetry",
+      "publishers": "Playstack",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 폴란드어, 포르투갈어 - 브라질, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체, 스페인어 - 중남미, 중국어 번체, 한국어, 우크라이나어*음성이 지원되는 언어",
+      "price": "$49.99",
+      "release_date": "2026년 8월 20일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1787326472"
+    },
+    "4001890": {
+      "appid": "4001890",
+      "name": "낚시 방법",
+      "genres": "액션, 캐주얼, 인디, 시뮬레이션",
+      "developers": "Dazed Games",
+      "publishers": "Dazed Games",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어*, 폴란드어*, 포르투갈어 - 브라질*, 러시아어*, 중국어 간체*, 스페인어 - 중남미*, 스웨덴어*, 중국어 번체*, 튀르키예어*, 우크라이나어**음성이 지원되는 언어",
+      "price": "$4.95",
+      "release_date": "2026년 8월 20일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1787234618"
+    },
+    "3065940": {
+      "appid": "3065940",
+      "name": "Gallipoli",
+      "genres": "액션, 인디, 대규모 멀티플레이어, 시뮬레이션, 전략",
+      "developers": "BlackMill Games",
+      "publishers": "BlackMill Games",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체, 튀르키예어*, 폴란드어, 포르투갈어 - 브라질*음성이 지원되는 언어",
+      "price": "$22.49",
+      "release_date": "2026년 8월 20일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065940/a50a3d05184ba4fb9fefbf326d597342b76de99f/header_alt_assets_0.jpg?t=1787348331"
+    },
+    "4294490": {
+      "appid": "4294490",
+      "name": "KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",
+      "genres": "인디, 시뮬레이션",
+      "developers": " KotaMota Games",
+      "publishers": "Polnoch",
+      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 체코어, 네덜란드어, 일본어, 한국어, 폴란드어, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체, 스페인어 - 중남미, 튀르키예어",
+      "price": "$5.59",
+      "release_date": "2026년 8월 20일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294490/41565686e1040c0f23aa1fe78666de2792f06d73/header.jpg?t=1787394704"
+    },
+    "2163330": {
+      "appid": "2163330",
+      "name": "Yet Another Zombie Survivors",
+      "genres": "액션, 캐주얼, 인디, RPG",
+      "developers": "Awesome Games Studio",
+      "publishers": "Awesome Games Studio",
+      "languages": "영어*, 폴란드어*, 중국어 간체*, 프랑스어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어*, 포르투갈어 - 브라질*, 러시아어**음성이 지원되는 언어",
       "price": "$9.74",
-      "release_date": "2026년 8월 14일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091140/0f52f0d28b3e8ae6023d919423a9953cf4c39df6/header.jpg?t=1786719023"
+      "release_date": "2026년 8월 20일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/268dd84acee9b52e2878c9f6ddc4cae1261d403f/header_alt_assets_2_koreana.jpg?t=1787418152"
+    },
+    "4026250": {
+      "appid": "4026250",
+      "name": "Project P.I.T.T.",
+      "genres": "액션, 캐주얼, 인디, 시뮬레이션",
+      "developers": "Froke",
+      "publishers": "Pretty Soon",
+      "languages": "영어, 프랑스어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체",
+      "price": "$8.49",
+      "release_date": "2026년 8월 19일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026250/066d9c477e4883dd31e5db4d3b0236a3c70cec3f/header.jpg?t=1787223275"
+    },
+    "4315040": {
+      "appid": "4315040",
+      "name": "영주님은 방치중: 중세 도시 키우기",
+      "genres": "캐주얼, 시뮬레이션, 전략",
+      "developers": "Phorust Studios",
+      "publishers": "Runic Forge, Gamersky Games",
+      "languages": "영어*, 중국어 간체*, 독일어*, 일본어*, 러시아어*, 한국어*, 중국어 번체**음성이 지원되는 언어",
+      "price": "$7.19",
+      "release_date": "2026년 8월 19일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/219d5b9e44a9ae52fde844cd765ef9c4ceae7b74/header_koreana.jpg?t=1787170538"
+    },
+    "2825860": {
+      "appid": "2825860",
+      "name": "The Sinking City 2",
+      "genres": "액션, 어드벤처",
+      "developers": "Frogwares",
+      "publishers": "Frogwares",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 아랍어, 체코어, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 중국어 간체, 중국어 번체, 튀르키예어, 우크라이나어*음성이 지원되는 언어",
+      "price": "$49.99",
+      "release_date": "2026년 8월 18일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/05f1db0ecea4914621f13ebaa81710e505de2c6b/header.jpg?t=1787235451"
+    },
+    "1575990": {
+      "appid": "1575990",
+      "name": "Twisted Tower",
+      "genres": "액션, 어드벤처, 인디",
+      "developers": "Atmos Games",
+      "publishers": "3D Realms",
+      "languages": "영어**음성이 지원되는 언어",
+      "price": "$13.49",
+      "release_date": "2026년 8월 18일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575990/0270dc9ee7ddd3b31d2c9f0d5f1fb76cb4879eb8/header.jpg?t=1787251359"
+    },
+    "3849000": {
+      "appid": "3849000",
+      "name": "The Lantern of the Laughless Saint",
+      "genres": "액션, 어드벤처, RPG, 앞서 해보기",
+      "developers": "NerveLabs",
+      "publishers": "NerveLabs",
+      "languages": "영어**음성이 지원되는 언어",
+      "price": "$17.99",
+      "release_date": "2026년 8월 17일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3849000/b98fe0c76e1cf48d830922efe33852a83915b5cc/header.jpg?t=1787331024"
     },
     "3079210": {
       "appid": "3079210",
@@ -19,7 +129,7 @@
       "developers": "Expression Games",
       "publishers": "Team17",
       "languages": "영어*, 프랑스어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 중국어 간체, 중국어 번체, 베트남어, 러시아어*음성이 지원되는 언어",
-      "price": "₩ 45,920",
+      "price": "$39.99",
       "release_date": "2026년 8월 13일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1786637345"
     },
@@ -43,7 +153,18 @@
       "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 체코어, 헝가리어, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체, 튀르키예어, 우크라이나어, 덴마크어, 네덜란드어, 핀란드어, 노르웨이어, 포르투갈어 - 포르투갈, 스페인어 - 중남미, 스웨덴어",
       "price": "$9.74",
       "release_date": "2026년 8월 13일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/9bf3d937b7c0e7a9b96e67a9b0da7b40e80df3c2/header_koreana.jpg?t=1786703049"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/9bf3d937b7c0e7a9b96e67a9b0da7b40e80df3c2/header_koreana.jpg?t=1787306087"
+    },
+    "4992070": {
+      "appid": "4992070",
+      "name": "Sort Them Ducks",
+      "genres": "캐주얼, 시뮬레이션",
+      "developers": "Mr.Duck",
+      "publishers": "Mr.Duck",
+      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 아랍어, 불가리아어, 네덜란드어, 인도네시아어, 일본어, 한국어, 폴란드어, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체, 튀르키예어, 포르투갈어 - 브라질",
+      "price": "$5.99",
+      "release_date": "2026년 8월 13일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/52ee7fca29b20f089decc254088b4beba0eea112/header.jpg?t=1787236378"
     },
     "2542020": {
       "appid": "2542020",
@@ -56,28 +177,6 @@
       "release_date": "2026년 8월 13일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2542020/f17f8f31c30ca7f8603b125502e00c0c542c6677/header.jpg?t=1786631734"
     },
-    "3315060": {
-      "appid": "3315060",
-      "name": "Ledgerbound",
-      "genres": "RPG, 전략",
-      "developers": "OmniMegaSuperCorp",
-      "publishers": "OmniMegaSuperCorp",
-      "languages": "영어**음성이 지원되는 언어",
-      "price": "$26.99",
-      "release_date": "2026년 8월 13일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3315060/26881e92d135573f1082bf47c88233913a0ea1d0/header.jpg?t=1786901969"
-    },
-    "4992070": {
-      "appid": "4992070",
-      "name": "Sort Them Ducks",
-      "genres": "캐주얼, 시뮬레이션",
-      "developers": "Mr.Duck",
-      "publishers": "Mr.Duck",
-      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 아랍어, 불가리아어, 네덜란드어, 인도네시아어, 일본어, 한국어, 폴란드어, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체, 튀르키예어, 포르투갈어 - 브라질",
-      "price": "$5.39",
-      "release_date": "2026년 8월 13일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/52ee7fca29b20f089decc254088b4beba0eea112/header.jpg?t=1786629601"
-    },
     "292000": {
       "appid": "292000",
       "name": "No More Room in Hell 2",
@@ -85,9 +184,9 @@
       "developers": "Torn Banner Studios",
       "publishers": "Torn Banner Studios",
       "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 포르투갈어 - 브라질, 러시아어, 중국어 간체*음성이 지원되는 언어",
-      "price": "$19.49",
+      "price": "₩ 20,800",
       "release_date": "2026년 8월 11일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/775de3f7f26f46a1c6217a7c71656260ee0ca411/header_alt_assets_10.jpg?t=1786638024"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/ba33a8aef67d6a1e3b17b0f1689731334c1ec541/header.jpg?t=1786638024"
     },
     "2523770": {
       "appid": "2523770",
@@ -99,17 +198,6 @@
       "price": "$17.99",
       "release_date": "2026년 8월 11일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523770/ce49411b23ef7bfe8dd88c1c58f29a4584cf961e/header.jpg?t=1786466870"
-    },
-    "1574480": {
-      "appid": "1574480",
-      "name": "Agent 64: Spies Never Die",
-      "genres": "액션, 어드벤처, 인디",
-      "developers": "Replicant D6",
-      "publishers": "Replicant D6",
-      "languages": "영어, 일본어, 프랑스어",
-      "price": "$19.25",
-      "release_date": "2026년 8월 11일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574480/f281ff155778294664365fbcedc884319ed172fd/header.jpg?t=1786538539"
     },
     "1067360": {
       "appid": "1067360",
@@ -129,20 +217,9 @@
       "developers": "Beck & Branch Games",
       "publishers": "Neem Interactive",
       "languages": "영어*, 독일어, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 우크라이나어, 프랑스어, 스페인어 - 중남미, 중국어 번체*음성이 지원되는 언어",
-      "price": "$8.99",
+      "price": "$9.99",
       "release_date": "2026년 8월 7일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450620/4731734487b93af4b7edaecab28a6ac348ee5f02/header_alt_assets_0.jpg?t=1786114521"
-    },
-    "4369130": {
-      "appid": "4369130",
-      "name": "Chop Chop Inc.",
-      "genres": "어드벤처",
-      "developers": "NullRef Entertainment",
-      "publishers": "rokaplay select",
-      "languages": "영어, 독일어, 프랑스어, 스페인어 - 스페인, 포르투갈어 - 브라질, 중국어 간체, 러시아어",
-      "price": "$12.99",
-      "release_date": "2026년 8월 7일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/8bceabf2e3a7a845696baf18c09b377684d116ae/header.jpg?t=1786432849"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450620/697974067797577ee1803c37a44b4217d886502a/header.jpg?t=1786114521"
     },
     "2950790": {
       "appid": "2950790",
@@ -151,31 +228,9 @@
       "developers": "Nick Nieuwoudt, Dominik Latos",
       "publishers": "Nick Nieuwoudt, Dominik Latos",
       "languages": "영어, 프랑스어, 독일어, 스페인어 - 스페인, 중국어 간체, 중국어 번체, 포르투갈어 - 브라질, 우크라이나어, 일본어, 러시아어, 한국어, 체코어, 폴란드어, 이탈리아어, 스페인어 - 중남미, 튀르키예어",
-      "price": "$14.99",
+      "price": "$19.99",
       "release_date": "2026년 8월 6일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/e6c9e990560078611472e5dab98e79a405ed33f4/header.jpg?t=1786639727"
-    },
-    "3787240": {
-      "appid": "3787240",
-      "name": "MARVEL Tōkon: Fighting Souls",
-      "genres": "액션, 캐주얼",
-      "developers": "ARC SYSTEM WORKS CO., LTD",
-      "publishers": "PlayStation Publishing LLC",
-      "languages": "영어*, 일본어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어, 한국어*, 폴란드어, 포르투갈어 - 브라질*, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체*, 스페인어 - 중남미*, 태국어, 중국어 번체*음성이 지원되는 언어",
-      "price": "$59.99",
-      "release_date": "2026년 8월 6일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/b12a65e2a140f07ff79d57773353d9ffc8f6507b/header_koreana.jpg?t=1786097849"
-    },
-    "3812600": {
-      "appid": "3812600",
-      "name": "ReStory: Chill Electronics Repairs",
-      "genres": "인디, 시뮬레이션",
-      "developers": "Mandragora",
-      "publishers": "tinyBuild",
-      "languages": "영어, 프랑스어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 중국어 간체",
-      "price": "$17.99",
-      "release_date": "2026년 8월 6일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/c6b42e4ff45667bddcffc9710ed4c4184b6d6950/header_alt_assets_3_koreana.jpg?t=1786634154"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/e6c9e990560078611472e5dab98e79a405ed33f4/header.jpg?t=1787498698"
     },
     "4113940": {
       "appid": "4113940",
@@ -184,20 +239,9 @@
       "developers": "WILD WITS GAMES",
       "publishers": "Curve Games",
       "languages": "영어, 프랑스어, 독일어, 일본어, 한국어, 중국어 간체",
-      "price": "$16.99",
+      "price": "$19.99",
       "release_date": "2026년 8월 6일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113940/1ddf28e27d7c8dcc7474171358ef64cc90eabc71/header.jpg?t=1786457942"
-    },
-    "3904850": {
-      "appid": "3904850",
-      "name": "Approximately Up",
-      "genres": "어드벤처, 인디, 시뮬레이션",
-      "developers": "Approximately Games",
-      "publishers": "Approximately Games",
-      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 포르투갈어 - 포르투갈, 일본어, 한국어, 러시아어, 중국어 간체, 체코어, 폴란드어, 튀르키예어, 포르투갈어 - 브라질",
-      "price": "$24.99",
-      "release_date": "2026년 8월 6일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3904850/d91f2e97c92cb98f97b3c773ff1e2d84bf6bc127/header.jpg?t=1786035600"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113940/1ddf28e27d7c8dcc7474171358ef64cc90eabc71/header.jpg?t=1787066893"
     },
     "2142790": {
       "appid": "2142790",
@@ -217,7 +261,7 @@
       "developers": "House House",
       "publishers": "Panic",
       "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 스페인어 - 중남미, 중국어 번체, 튀르키예어",
-      "price": "$14.99",
+      "price": "$19.99",
       "release_date": "2026년 8월 4일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674"
     },
@@ -230,7 +274,7 @@
       "languages": "영어*, 중국어 간체, 중국어 번체, 프랑스어, 독일어, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 스페인어 - 스페인, 우크라이나어, 이탈리아어, 베트남어, 폴란드어, 체코어*음성이 지원되는 언어",
       "price": "$12.99",
       "release_date": "2026년 7월 31일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/d777414ab68027db0399200587fd78d409cc9602/header_alt_assets_5.jpg?t=1785859866"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/d777414ab68027db0399200587fd78d409cc9602/header_alt_assets_5.jpg?t=1787323953"
     },
     "1368140": {
       "appid": "1368140",
@@ -249,21 +293,10 @@
       "genres": "액션, 어드벤처, 인디, RPG",
       "developers": "TEAM HORAY",
       "publishers": "TEAM HORAY",
-      "languages": "한국어, 영어, 일본어, 중국어 간체, 스페인어 - 스페인, 러시아어, 포르투갈어 - 브라질, 프랑스어, 독일어, 스웨덴어, 태국어, 폴란드어",
+      "languages": "한국어, 영어, 일본어, 중국어 간체, 스페인어 - 스페인, 러시아어, 포르투갈어 - 브라질, 프랑스어, 독일어, 스웨덴어, 태국어, 폴란드어, 이탈리아어, 중국어 번체, 튀르키예어",
       "price": "$14.99",
       "release_date": "2026년 7월 31일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/cb7dc6f4ed2f0012eb557365966be9b69815f7ae/header.jpg?t=1786421771"
-    },
-    "2059170": {
-      "appid": "2059170",
-      "name": "Quasimorph",
-      "genres": "액션, 어드벤처, 인디, RPG, 시뮬레이션, 전략",
-      "developers": "Magnum Scriptum",
-      "publishers": "HypeTrain Digital",
-      "languages": "영어, 러시아어, 프랑스어, 독일어, 일본어, 한국어, 폴란드어, 중국어 간체, 튀르키예어, 스페인어 - 스페인, 포르투갈어 - 브라질",
-      "price": "$24.99",
-      "release_date": "2026년 7월 31일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/2a9b43b4775fdd7e045d03a3e8a85f41f8c3c9a9/header_alt_assets_1.jpg?t=1786116753"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/cb7dc6f4ed2f0012eb557365966be9b69815f7ae/header.jpg?t=1787290452"
     },
     "4108000": {
       "appid": "4108000",
@@ -285,18 +318,7 @@
       "languages": "영어*, 프랑스어, 독일어, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 스페인어 - 중남미*음성이 지원되는 언어",
       "price": "$14.99",
       "release_date": "2026년 7월 30일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934270/aebd8a67c54f0e1ca86a52403c48a81e091d89c2/header_koreana.jpg?t=1785901232"
-    },
-    "3282300": {
-      "appid": "3282300",
-      "name": "Mistfall Hunter",
-      "genres": "액션, 어드벤처",
-      "developers": "Bellring Games",
-      "publishers": "Skystone Games",
-      "languages": "영어*, 중국어 간체, 스페인어 - 스페인, 러시아어, 일본어, 중국어 번체, 한국어, 프랑스어, 독일어, 포르투갈어 - 브라질*음성이 지원되는 언어",
-      "price": "$24.99",
-      "release_date": "2026년 7월 29일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/08d970d57d0e400ef35abae2602c5d5cd5f842d5/header.jpg?t=1786585155"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934270/aebd8a67c54f0e1ca86a52403c48a81e091d89c2/header_koreana.jpg?t=1787335496"
     },
     "4421010": {
       "appid": "4421010",
@@ -309,28 +331,6 @@
       "release_date": "2026년 7월 29일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/fc7d507e465320493fbf224b54d769c043601390/header.jpg?t=1786871377"
     },
-    "4594150": {
-      "appid": "4594150",
-      "name": "대장님, 오크가 몰려옵니다",
-      "genres": "인디, 시뮬레이션, 전략",
-      "developers": "Mumpitz Games",
-      "publishers": "Mumpitz Games",
-      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 네덜란드어, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체",
-      "price": "$9.99",
-      "release_date": "2026년 7월 28일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/d8a7b3d55e3a2b42350732db0155fc2a9346c10b/header.jpg?t=1785828320"
-    },
-    "2684630": {
-      "appid": "2684630",
-      "name": "Endacopia",
-      "genres": "어드벤처, 인디",
-      "developers": "Andyland",
-      "publishers": "Andyland",
-      "languages": "영어**음성이 지원되는 언어",
-      "price": "$16.50",
-      "release_date": "2026년 7월 27일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1786381683"
-    },
     "730": {
       "appid": "730",
       "name": "Counter-Strike 2",
@@ -341,28 +341,6 @@
       "price": "무료",
       "release_date": "2012년 8월 21일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1784564069"
-    },
-    "1172470": {
-      "appid": "1172470",
-      "name": "Apex 레전드™",
-      "genres": "액션, 어드벤처, 무료 플레이",
-      "developers": "Respawn",
-      "publishers": "Electronic Arts",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어*, 폴란드어*, 포르투갈어 - 브라질, 러시아어*, 중국어 간체*, 중국어 번체, 스페인어 - 중남미, 아랍어*음성이 지원되는 언어",
-      "price": "무료",
-      "release_date": "2020년 11월 4일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1786031871"
-    },
-    "2552430": {
-      "appid": "2552430",
-      "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-      "genres": "액션, 어드벤처, RPG",
-      "developers": "Square Enix",
-      "publishers": "Square Enix",
-      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어**음성이 지원되는 언어",
-      "price": "$14.99",
-      "release_date": "2024년 6월 13일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg?t=1779418330"
     },
     "570": {
       "appid": "570",
@@ -375,50 +353,6 @@
       "release_date": "2013년 7월 9일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1769535998"
     },
-    "553850": {
-      "appid": "553850",
-      "name": "HELLDIVERS™ 2",
-      "genres": "액션",
-      "developers": "Arrowhead Game Studios",
-      "publishers": "PlayStation Publishing LLC",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어, 포르투갈어 - 브라질*, 스페인어 - 중남미*, 폴란드어, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체*, 중국어 번체*음성이 지원되는 언어",
-      "price": "$29.99",
-      "release_date": "2024년 2월 8일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/2a58d0a6c901e61cc6ad5a7cb488048a1e9f4809/header_koreana.jpg?t=1786525389"
-    },
-    "2767030": {
-      "appid": "2767030",
-      "name": "마블 라이벌즈",
-      "genres": "액션, 무료 플레이",
-      "developers": "NetEase Games",
-      "publishers": "NetEase Games",
-      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 러시아어, 튀르키예어, 태국어, 중국어 간체*, 중국어 번체, 스페인어 - 중남미, 한국어, 일본어*, 폴란드어, 포르투갈어 - 브라질, 아랍어*음성이 지원되는 언어",
-      "price": "무료",
-      "release_date": "2024년 12월 5일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/44ca658ecf9b75216cb652f709ced7ccde96d915/header.jpg?t=1786093208"
-    },
-    "2584270": {
-      "appid": "2584270",
-      "name": "Mortal Shell II",
-      "genres": "액션, RPG",
-      "developers": "Cold Symmetry",
-      "publishers": "Playstack",
-      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 폴란드어, 포르투갈어 - 브라질, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체, 스페인어 - 중남미, 중국어 번체, 한국어, 우크라이나어*음성이 지원되는 언어",
-      "price": "$49.99",
-      "release_date": "2026년 8월 20일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/f665e0abb4a41d75fb1c7b8b4d4fe5ae4b41f1fc/header_alt_assets_1_koreana.jpg?t=1786719153"
-    },
-    "1142710": {
-      "appid": "1142710",
-      "name": "토탈워: 워해머 3",
-      "genres": "액션, 전략",
-      "developers": "CREATIVE ASSEMBLY, Feral Interactive",
-      "publishers": "SEGA, Feral Interactive",
-      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 체코어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체, 튀르키예어*음성이 지원되는 언어",
-      "price": "$8.99",
-      "release_date": "2022년 2월 16일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg?t=1786634522"
-    },
     "1867240": {
       "appid": "1867240",
       "name": "WARDOGS",
@@ -426,31 +360,53 @@
       "developers": "BULKHEAD",
       "publishers": "Team17",
       "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체, 폴란드어, 튀르키예어, 우크라이나어*음성이 지원되는 언어",
-      "price": "$39.99",
+      "price": "₩ 47,270",
       "release_date": "2026년 9월 10일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1786467028"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1787240917"
     },
-    "1623730": {
-      "appid": "1623730",
-      "name": "Palworld / 팰월드",
-      "genres": "액션, 어드벤처, 인디, RPG",
-      "developers": "Pocketpair",
-      "publishers": "Pocketpair",
-      "languages": "영어, 중국어 간체, 중국어 번체, 일본어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 포르투갈어 - 브라질, 러시아어, 한국어, 인도네시아어, 스페인어 - 중남미, 태국어, 튀르키예어, 베트남어, 폴란드어",
-      "price": "$29.99",
-      "release_date": "2026년 7월 9일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419"
+    "4435490": {
+      "appid": "4435490",
+      "name": "콜 오브 듀티®: 모던 워페어 4",
+      "genres": "액션",
+      "developers": "Infinity Ward, Beenox, Digital Legends, Activision Shanghai, Raven Software, Treyarch, Sledgehammer Games, High Moon Studios",
+      "publishers": "Activision",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 한국어*, 폴란드어, 러시아어, 중국어 번체, 일본어*, 스페인어 - 중남미*, 아랍어, 중국어 간체*, 포르투갈어 - 브라질**음성이 지원되는 언어",
+      "price": "$69.99",
+      "release_date": "2026년 10월 22일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/1b43b29d30d31ec134f876d30ed1a13706875a25/header_koreana.jpg?t=1787345750"
     },
-    "4115450": {
-      "appid": "4115450",
-      "name": "Phantom Blade Zero",
-      "genres": "액션, RPG",
-      "developers": "S-GAME Studio",
-      "publishers": "S-GAME Publishing",
-      "languages": "영어*, 중국어 간체*, 프랑스어, 독일어, 스페인어 - 스페인, 러시아어, 일본어, 중국어 번체, 포르투갈어 - 브라질, 한국어, 이탈리아어, 태국어, 베트남어, 포르투갈어 - 포르투갈, 스페인어 - 중남미*음성이 지원되는 언어",
-      "price": "$59.99",
-      "release_date": "2026년 10월 28일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg?t=1786515952"
+    "1172470": {
+      "appid": "1172470",
+      "name": "Apex 레전드™",
+      "genres": "액션, 어드벤처, 무료 플레이",
+      "developers": "Respawn",
+      "publishers": "Electronic Arts",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어*, 폴란드어*, 포르투갈어 - 브라질, 러시아어*, 중국어 간체*, 중국어 번체, 스페인어 - 중남미, 아랍어*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2020년 11월 4일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1786031871"
+    },
+    "553850": {
+      "appid": "553850",
+      "name": "HELLDIVERS™ 2",
+      "genres": "액션",
+      "developers": "Arrowhead Game Studios",
+      "publishers": "PlayStation Publishing LLC",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어, 포르투갈어 - 브라질*, 스페인어 - 중남미*, 폴란드어, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체*, 중국어 번체*음성이 지원되는 언어",
+      "price": "$39.99",
+      "release_date": "2024년 2월 8일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/2a58d0a6c901e61cc6ad5a7cb488048a1e9f4809/header_koreana.jpg?t=1786525389"
+    },
+    "2075800": {
+      "appid": "2075800",
+      "name": "스타워즈 제로 컴퍼니™",
+      "genres": "전략",
+      "developers": "Bit Reactor",
+      "publishers": "Electronic Arts",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어*, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 중국어 간체, 중국어 번체, 포르투갈어 - 브라질*음성이 지원되는 언어",
+      "price": "$49.99",
+      "release_date": "2026년 8월 27일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1787045473"
     },
     "2358720": {
       "appid": "2358720",
@@ -463,6 +419,50 @@
       "release_date": "2024년 8월 19일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg?t=1760601605"
     },
+    "2767030": {
+      "appid": "2767030",
+      "name": "마블 라이벌즈",
+      "genres": "액션, 무료 플레이",
+      "developers": "NetEase Games",
+      "publishers": "NetEase Games",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 러시아어, 튀르키예어, 태국어, 중국어 간체*, 중국어 번체, 스페인어 - 중남미, 한국어, 일본어*, 폴란드어, 포르투갈어 - 브라질, 아랍어*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2024년 12월 5일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/44ca658ecf9b75216cb652f709ced7ccde96d915/header.jpg?t=1786093208"
+    },
+    "1643320": {
+      "appid": "1643320",
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "genres": "액션, 어드벤처, RPG",
+      "developers": "GSC Game World",
+      "publishers": "GSC Game World (worldwide), SEGA (Japan), 4Divinity (China and South East Asia)",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체, 우크라이나어*, 아랍어, 체코어, 스페인어 - 중남미, 튀르키예어, 세르비아어*음성이 지원되는 언어",
+      "price": "$41.99",
+      "release_date": "2024년 11월 20일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643320/5b6ab49558327841d4b94744d744dff4ac462c2d/header_alt_assets_7_koreana.jpg?t=1787314871"
+    },
+    "2406770": {
+      "appid": "2406770",
+      "name": "Bodycam",
+      "genres": "액션, 인디, 대규모 멀티플레이어, 시뮬레이션, 전략, 앞서 해보기",
+      "developers": "Reissad Studio",
+      "publishers": "Reissad Studio",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 아랍어, 일본어, 한국어, 러시아어, 중국어 간체*음성이 지원되는 언어",
+      "price": "$33.32",
+      "release_date": "2024년 6월 7일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b670f1abe4e88ab523114ddbb42fcc1014411383/header_alt_assets_1.jpg?t=1787522517"
+    },
+    "1142710": {
+      "appid": "1142710",
+      "name": "토탈워: 워해머 3",
+      "genres": "액션, 전략",
+      "developers": "CREATIVE ASSEMBLY, Feral Interactive",
+      "publishers": "SEGA, Feral Interactive",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 체코어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체, 튀르키예어*음성이 지원되는 언어",
+      "price": "$8.99",
+      "release_date": "2022년 2월 16일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg?t=1786634522"
+    },
     "230410": {
       "appid": "230410",
       "name": "Warframe",
@@ -473,6 +473,28 @@
       "price": "무료",
       "release_date": "2013년 3월 25일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/a000b4bf98dde5d51cd44206f1ac21d04841017e/header.jpg?t=1786540562"
+    },
+    "1771300": {
+      "appid": "1771300",
+      "name": "Kingdom Come: Deliverance II",
+      "genres": "액션, 어드벤처, RPG",
+      "developers": "Warhorse Studios",
+      "publishers": "Deep Silver",
+      "languages": "영어*, 이탈리아어, 프랑스어*, 독일어*, 스페인어 - 스페인*, 체코어*, 일본어*, 한국어, 폴란드어, 포르투갈어 - 브라질, 중국어 간체, 중국어 번체, 튀르키예어, 러시아어, 우크라이나어*음성이 지원되는 언어",
+      "price": "$23.99",
+      "release_date": "2025년 2월 4일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568"
+    },
+    "1623730": {
+      "appid": "1623730",
+      "name": "Palworld / 팰월드",
+      "genres": "액션, 어드벤처, 인디, RPG",
+      "developers": "Pocketpair",
+      "publishers": "Pocketpair",
+      "languages": "영어, 중국어 간체, 중국어 번체, 일본어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 포르투갈어 - 브라질, 러시아어, 한국어, 인도네시아어, 스페인어 - 중남미, 태국어, 튀르키예어, 베트남어, 폴란드어",
+      "price": "$29.99",
+      "release_date": "2026년 7월 9일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419"
     },
     "578080": {
       "appid": "578080",
@@ -485,6 +507,28 @@
       "release_date": "2017년 12월 21일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1786493086"
     },
+    "2161700": {
+      "appid": "2161700",
+      "name": "페르소나3 리로드",
+      "genres": "어드벤처, RPG, 전략",
+      "developers": "ATLUS",
+      "publishers": "SEGA",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어*, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체, 튀르키예어*음성이 지원되는 언어",
+      "price": "$20.99",
+      "release_date": "2024년 2월 1일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430"
+    },
+    "227300": {
+      "appid": "227300",
+      "name": "Euro Truck Simulator 2",
+      "genres": "인디, 시뮬레이션",
+      "developers": "SCS Software",
+      "publishers": "SCS Software",
+      "languages": "영어, 독일어, 프랑스어, 이탈리아어, 한국어, 스페인어 - 스페인, 중국어 간체, 러시아어, 일본어, 포르투갈어 - 포르투갈, 폴란드어, 덴마크어, 네덜란드어, 핀란드어, 노르웨이어, 스웨덴어, 헝가리어, 체코어, 루마니아어, 튀르키예어, 포르투갈어 - 브라질, 불가리아어, 그리스어, 우크라이나어, 중국어 번체, 카탈로니아어, 리투아니아어, 세르비아어, 슬로바키아어, 슬로베니아어",
+      "price": "$4.99",
+      "release_date": "2012년 10월 12일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1785394779"
+    },
     "381210": {
       "appid": "381210",
       "name": "Dead by Daylight",
@@ -495,6 +539,28 @@
       "price": "$19.99",
       "release_date": "2016년 6월 14일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1784216454"
+    },
+    "4080220": {
+      "appid": "4080220",
+      "name": "EA SPORTS FC™ 27",
+      "genres": "시뮬레이션, 스포츠",
+      "developers": "EA CANADA, EA Romania",
+      "publishers": "Electronic Arts",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어*, 체코어, 덴마크어, 네덜란드어*, 일본어*, 한국어*, 노르웨이어, 폴란드어*, 포르투갈어 - 브라질*, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체*, 스페인어 - 중남미*, 스웨덴어, 중국어 번체, 튀르키예어**음성이 지원되는 언어",
+      "price": "$69.99",
+      "release_date": "2026년 9월 24일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/05d419a45653a1299ce46d13dbff4533fa076c1c/header.jpg?t=1785786005"
+    },
+    "4356430": {
+      "appid": "4356430",
+      "name": "NBA 2K27",
+      "genres": "스포츠",
+      "developers": "Visual Concepts",
+      "publishers": "2K",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 중국어 간체, 중국어 번체*음성이 지원되는 언어",
+      "price": "$69.99",
+      "release_date": "2026년 9월 3일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1787326344"
     },
     "3932890": {
       "appid": "3932890",
@@ -507,71 +573,60 @@
       "release_date": "2025년 11월 15일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/4dd12ea3b00a4f8b67bfd629f3b9abbf8d5cab05/header_alt_assets_2.jpg?t=1785782094"
     },
-    "3527290": {
-      "appid": "3527290",
-      "name": "PEAK",
-      "genres": "액션, 어드벤처, 인디",
-      "developers": "Team PEAK",
-      "publishers": "Aggro Crab, Evil Landfall?",
-      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 스페인어 - 중남미, 우크라이나어, 폴란드어, 튀르키예어, 중국어 번체",
-      "price": "$3.99",
-      "release_date": "2025년 6월 16일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571"
+    "4115450": {
+      "appid": "4115450",
+      "name": "Phantom Blade Zero",
+      "genres": "액션, RPG",
+      "developers": "S-GAME Studio",
+      "publishers": "S-GAME Publishing",
+      "languages": "영어*, 중국어 간체*, 프랑스어, 독일어, 스페인어 - 스페인, 러시아어, 일본어, 중국어 번체, 포르투갈어 - 브라질, 한국어, 이탈리아어, 태국어, 베트남어, 포르투갈어 - 포르투갈, 스페인어 - 중남미*음성이 지원되는 언어",
+      "price": "$59.99",
+      "release_date": "2026년 10월 28일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg?t=1787142639"
     },
-    "2141910": {
-      "appid": "2141910",
-      "name": "Magic: The Gathering Arena",
-      "genres": "전략, 무료 플레이",
-      "developers": "Wizards of the Coast",
-      "publishers": "Wizards of the Coast",
-      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 스페인어 - 중남미*음성이 지원되는 언어",
-      "price": "무료",
-      "release_date": "2023년 5월 23일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2141910/716866a49db0a2a1051f66e11fcd8c9c905173de/header_koreana.jpg?t=1783012538"
-    },
-    "4435490": {
-      "appid": "4435490",
-      "name": "콜 오브 듀티®: 모던 워페어 4",
-      "genres": "액션",
-      "developers": "Infinity Ward, Beenox, Digital Legends, Activision Shanghai, Raven Software, Treyarch, Sledgehammer Games, High Moon Studios",
-      "publishers": "Activision",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 한국어*, 폴란드어, 러시아어, 중국어 번체, 일본어*, 스페인어 - 중남미*, 아랍어, 중국어 간체*, 포르투갈어 - 브라질**음성이 지원되는 언어",
-      "price": "$69.99",
-      "release_date": "2026년 10월 22일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/1b43b29d30d31ec134f876d30ed1a13706875a25/header_koreana.jpg?t=1786056914"
-    },
-    "2075800": {
-      "appid": "2075800",
-      "name": "스타워즈 제로 컴퍼니™",
-      "genres": "전략",
-      "developers": "Bit Reactor",
-      "publishers": "Electronic Arts",
-      "languages": "영어*, 프랑스어, 이탈리아어, 독일어*, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 중국어 간체, 중국어 번체, 포르투갈어 - 브라질*음성이 지원되는 언어",
-      "price": "$49.99",
-      "release_date": "2026년 8월 27일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1786733355"
-    },
-    "1313140": {
-      "appid": "1313140",
-      "name": "Cult of the Lamb",
-      "genres": "액션, 어드벤처, 인디, 전략",
-      "developers": "Massive Monster",
-      "publishers": "Devolver Digital",
-      "languages": "영어, 프랑스어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체, 이탈리아어, 아랍어, 네덜란드어, 튀르키예어",
-      "price": "$9.99",
-      "release_date": "2022년 8월 11일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/19f32bb477a6e9d058e05193b4e282149bd70644/header.jpg?t=1786554901"
-    },
-    "2357570": {
-      "appid": "2357570",
-      "name": "오버워치™",
+    "359550": {
+      "appid": "359550",
+      "name": "톰 클랜시의 레인보우식스 시즈",
       "genres": "액션, 무료 플레이",
-      "developers": "Blizzard Entertainment, Inc.",
-      "publishers": "Blizzard Entertainment, Inc.",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어*, 폴란드어*, 포르투갈어 - 브라질*, 러시아어*, 스페인어 - 중남미*, 중국어 번체*, 중국어 간체**음성이 지원되는 언어",
+      "developers": "Ubisoft Montreal",
+      "publishers": "Ubisoft",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 체코어, 네덜란드어, 일본어*, 한국어, 폴란드어, 포르투갈어 - 브라질*, 러시아어*, 중국어 번체, 중국어 간체, 튀르키예어, 태국어*음성이 지원되는 언어",
       "price": "무료",
-      "release_date": "2023년 8월 10일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/e0ffca89decb1dd4346058ff874fde995eef7170/header_alt_assets_22_koreana.jpg?t=1786471282"
+      "release_date": "2015년 12월 1일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/dbd0c4a94a49fa7a1a2ee3b1426592334c195f88/header_alt_assets_24.jpg?t=1786117431"
+    },
+    "3513350": {
+      "appid": "3513350",
+      "name": "Wuthering Waves",
+      "genres": "액션, 어드벤처, RPG, 무료 플레이",
+      "developers": "KURO GAMES",
+      "publishers": "KURO GAMES",
+      "languages": "영어*, 프랑스어, 독일어, 스페인어 - 스페인, 일본어*, 중국어 간체*, 중국어 번체, 한국어*, 태국어, 포르투갈어 - 브라질*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2025년 4월 28일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3513350/e122b1670ac26b72d6e1af5190f5ce2af87b18aa/header_koreana.jpg?t=1787182292"
+    },
+    "236390": {
+      "appid": "236390",
+      "name": "War Thunder",
+      "genres": "액션, 대규모 멀티플레이어, 시뮬레이션, 무료 플레이",
+      "developers": "Gaijin Entertainment",
+      "publishers": "Gaijin Network Ltd",
+      "languages": "영어*, 독일어*, 프랑스어*, 이탈리아어*, 스페인어 - 스페인*, 중국어 간체, 러시아어*, 일본어*, 폴란드어*, 체코어*, 튀르키예어*, 포르투갈어 - 포르투갈, 한국어, 포르투갈어 - 브라질, 헝가리어, 우크라이나어, 중국어 번체, 루마니아어*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2013년 8월 15일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/65885881b96806d55fea45e130233fdafd78b129/header.jpg?t=1784211516"
+    },
+    "2074920": {
+      "appid": "2074920",
+      "name": "퍼스트 디센던트",
+      "genres": "액션, 어드벤처, RPG, 무료 플레이",
+      "developers": "NEXON Games Co., Ltd.",
+      "publishers": "NEXON",
+      "languages": "영어*, 일본어, 중국어 간체, 중국어 번체, 한국어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 폴란드어, 포르투갈어 - 브라질, 러시아어*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2024년 6월 30일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074920/dc8ac02c8328d66f2f78ea8b83472bdd7e281a62/header.jpg?t=1787211276"
     },
     "2483190": {
       "appid": "2483190",
@@ -595,38 +650,49 @@
       "release_date": "2017년 5월 24일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/3c4172635738d9e5901e340b28136745fd9e491a/header_alt_assets_27.jpg?t=1786645008"
     },
-    "359550": {
-      "appid": "359550",
-      "name": "톰 클랜시의 레인보우식스 시즈",
+    "2357570": {
+      "appid": "2357570",
+      "name": "오버워치™",
       "genres": "액션, 무료 플레이",
-      "developers": "Ubisoft Montreal",
-      "publishers": "Ubisoft",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 체코어, 네덜란드어, 일본어*, 한국어, 폴란드어, 포르투갈어 - 브라질*, 러시아어*, 중국어 번체, 중국어 간체, 튀르키예어, 태국어*음성이 지원되는 언어",
+      "developers": "Blizzard Entertainment, Inc.",
+      "publishers": "Blizzard Entertainment, Inc.",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어*, 폴란드어*, 포르투갈어 - 브라질*, 러시아어*, 스페인어 - 중남미*, 중국어 번체*, 중국어 간체**음성이 지원되는 언어",
       "price": "무료",
-      "release_date": "2015년 12월 1일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/dbd0c4a94a49fa7a1a2ee3b1426592334c195f88/header_alt_assets_24.jpg?t=1786117431"
+      "release_date": "2023년 8월 10일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/e0ffca89decb1dd4346058ff874fde995eef7170/header_alt_assets_22_koreana.jpg?t=1786471282"
     },
-    "236390": {
-      "appid": "236390",
-      "name": "War Thunder",
-      "genres": "액션, 대규모 멀티플레이어, 시뮬레이션, 무료 플레이",
-      "developers": "Gaijin Entertainment",
-      "publishers": "Gaijin Network Ltd",
-      "languages": "영어*, 독일어*, 프랑스어*, 이탈리아어*, 스페인어 - 스페인*, 중국어 간체, 러시아어*, 일본어*, 폴란드어*, 체코어*, 튀르키예어*, 포르투갈어 - 포르투갈, 한국어, 포르투갈어 - 브라질, 헝가리어, 우크라이나어, 중국어 번체, 루마니아어*음성이 지원되는 언어",
+    "4212480": {
+      "appid": "4212480",
+      "name": "Ragnarok: The New World",
+      "genres": "액션, 어드벤처, 대규모 멀티플레이어, RPG, 무료 플레이",
+      "developers": "Gravity Game Vision Limited",
+      "publishers": "Gravity Game Vision Limited",
+      "languages": "영어*, 인도네시아어*, 태국어*, 중국어 간체**음성이 지원되는 언어",
       "price": "무료",
-      "release_date": "2013년 8월 15일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/65885881b96806d55fea45e130233fdafd78b129/header.jpg?t=1784211516"
+      "release_date": "2026년 7월 26일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212480/95dc4b582f4d09290a50f6ea717136df91247be6/header.jpg?t=1787308460"
     },
-    "2651280": {
-      "appid": "2651280",
-      "name": "마블 스파이더맨 2",
-      "genres": "액션, 어드벤처",
-      "developers": "Insomniac Games, Nixxes Software",
-      "publishers": "PlayStation Publishing LLC",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어*, 체코어, 덴마크어, 네덜란드어, 핀란드어, 그리스어, 헝가리어, 인도네시아어, 일본어*, 한국어, 노르웨이어, 폴란드어*, 포르투갈어 - 브라질*, 포르투갈어 - 포르투갈*, 러시아어*, 중국어 간체, 스페인어 - 중남미*, 스웨덴어, 태국어, 중국어 번체, 베트남어*음성이 지원되는 언어",
-      "price": "$59.99",
-      "release_date": "2025년 1월 30일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811"
+    "108600": {
+      "appid": "108600",
+      "name": "Project Zomboid",
+      "genres": "인디, RPG, 시뮬레이션, 앞서 해보기",
+      "developers": "The Indie Stone",
+      "publishers": "The Indie Stone",
+      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 덴마크어, 네덜란드어, 헝가리어, 노르웨이어, 폴란드어, 포르투갈어 - 포르투갈, 러시아어, 튀르키예어, 일본어, 중국어 간체, 포르투갈어 - 브라질, 핀란드어, 한국어, 태국어, 중국어 번체, 우크라이나어, 체코어, 인도네시아어, 스페인어 - 중남미",
+      "price": "$24.99",
+      "release_date": "2013년 11월 8일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1785771763"
+    },
+    "3564740": {
+      "appid": "3564740",
+      "name": "연운",
+      "genres": "액션, 어드벤처, 캐주얼, 인디, 대규모 멀티플레이어, 레이싱, RPG, 시뮬레이션, 전략, 무료 플레이",
+      "developers": "Everstone Studio",
+      "publishers": "NetEase Games",
+      "languages": "영어*, 일본어, 중국어 간체*, 중국어 번체*, 한국어, 프랑스어, 독일어, 스페인어 - 중남미, 포르투갈어 - 브라질, 태국어, 베트남어, 러시아어*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2025년 11월 14일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/bc34b2945973a86bddedd899b96c89cbc1732ef3/header_koreana.jpg?t=1787327185"
     },
     "1158310": {
       "appid": "1158310",
@@ -650,71 +716,16 @@
       "release_date": "2023년 11월 10일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/7d0f21912a075c33bbb5ea558100e187ceb234ac/header.jpg?t=1778886604"
     },
-    "108600": {
-      "appid": "108600",
-      "name": "Project Zomboid",
-      "genres": "인디, RPG, 시뮬레이션, 앞서 해보기",
-      "developers": "The Indie Stone",
-      "publishers": "The Indie Stone",
-      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 덴마크어, 네덜란드어, 헝가리어, 노르웨이어, 폴란드어, 포르투갈어 - 포르투갈, 러시아어, 튀르키예어, 일본어, 중국어 간체, 포르투갈어 - 브라질, 핀란드어, 한국어, 태국어, 중국어 번체, 우크라이나어, 체코어, 인도네시아어, 스페인어 - 중남미",
-      "price": "$24.99",
-      "release_date": "2013년 11월 8일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1785771763"
-    },
-    "4704690": {
-      "appid": "4704690",
-      "name": "MECCHA CHAMELEON",
-      "genres": "캐주얼",
-      "developers": "lemorion_1224",
-      "publishers": "lemorion_1224",
-      "languages": "영어, 일본어, 스페인어 - 스페인, 중국어 간체, 한국어, 프랑스어, 이탈리아어, 독일어, 아랍어, 포르투갈어 - 브라질, 러시아어, 중국어 번체, 튀르키예어",
-      "price": "$5.99",
-      "release_date": "2026년 6월 9일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1785908480"
-    },
-    "460930": {
-      "appid": "460930",
-      "name": "Tom Clancy's Ghost Recon® Wildlands",
+    "2651280": {
+      "appid": "2651280",
+      "name": "마블 스파이더맨 2",
       "genres": "액션, 어드벤처",
-      "developers": "Ubisoft Paris, Ubisoft Annecy, Ubisoft Bucharest, Ubisoft Montpellier, Ubisoft Milan, Reflections, Ubisoft Belgrade",
-      "publishers": "Ubisoft",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어, 중국어 간체, 중국어 번체, 한국어, 일본어*, 네덜란드어, 폴란드어, 포르투갈어 - 브라질*, 러시아어*, 체코어, 스페인어 - 중남미**음성이 지원되는 언어",
-      "price": "$49.99",
-      "release_date": "2017년 3월 6일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/70a2312a82d3ad7ff685302441ea5f12395204a4/header_alt_assets_0.jpg?t=1786116240"
-    },
-    "3722330": {
-      "appid": "3722330",
-      "name": "Shift At Midnight",
-      "genres": "인디, 시뮬레이션",
-      "developers": "Bun Muen",
-      "publishers": "Kwalee",
-      "languages": "영어*, 프랑스어*, 독일어*, 스페인어 - 스페인*, 일본어*, 러시아어*, 중국어 간체*, 중국어 번체*, 포르투갈어 - 브라질**음성이 지원되는 언어",
-      "price": "$9.99",
-      "release_date": "2026년 7월 22일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1786465129"
-    },
-    "252490": {
-      "appid": "252490",
-      "name": "Rust",
-      "genres": "액션, 어드벤처, 인디, 대규모 멀티플레이어, RPG",
-      "developers": "Facepunch Studios",
-      "publishers": "Facepunch Studios",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어*, 러시아어*, 중국어 간체*, 우크라이나어*, 폴란드어*, 포르투갈어 - 포르투갈*, 튀르키예어*, 아랍어, 체코어, 덴마크어, 네덜란드어, 핀란드어, 그리스어, 노르웨이어, 포르투갈어 - 브라질, 스페인어 - 중남미, 스웨덴어, 중국어 번체, 베트남어*음성이 지원되는 언어",
-      "price": "$39.99",
-      "release_date": "2018년 2월 8일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981"
-    },
-    "3751950": {
-      "appid": "3751950",
-      "name": "어쌔신 크리드 블랙 플래그 리싱크드",
-      "genres": "액션, 어드벤처",
-      "developers": "Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai, Ubisoft Montreal, Ubisoft Romania",
-      "publishers": "Ubisoft",
-      "languages": "프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어, 중국어 간체*, 중국어 번체, 한국어, 일본어*, 폴란드어, 포르투갈어 - 브라질*, 러시아어, 영어**음성이 지원되는 언어",
+      "developers": "Insomniac Games, Nixxes Software",
+      "publishers": "PlayStation Publishing LLC",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어*, 체코어, 덴마크어, 네덜란드어, 핀란드어, 그리스어, 헝가리어, 인도네시아어, 일본어*, 한국어, 노르웨이어, 폴란드어*, 포르투갈어 - 브라질*, 포르투갈어 - 포르투갈*, 러시아어*, 중국어 간체, 스페인어 - 중남미*, 스웨덴어, 태국어, 중국어 번체, 베트남어*음성이 지원되는 언어",
       "price": "$59.99",
-      "release_date": "2026년 7월 9일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/a9683f2e7e4996f37599bce0942eb7be4c65b682/header_koreana.jpg?t=1786449132"
+      "release_date": "2025년 1월 30일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811"
     },
     "3240220": {
       "appid": "3240220",
@@ -727,49 +738,16 @@
       "release_date": "2025년 3월 4일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_koreana.jpg?t=1781187782"
     },
-    "2507950": {
-      "appid": "2507950",
-      "name": "Delta Force",
-      "genres": "액션, 어드벤처, 대규모 멀티플레이어, 무료 플레이",
-      "developers": "Team Jade",
-      "publishers": "TiMi Studio Group",
-      "languages": "영어*, 중국어 간체*, 프랑스어, 독일어, 러시아어, 스페인어 - 중남미, 아랍어, 일본어, 한국어, 포르투갈어 - 브라질, 중국어 번체, 튀르키예어*음성이 지원되는 언어",
-      "price": "무료",
-      "release_date": "2024년 12월 4일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/bf31fa039c6081e011f1ebeba9b9b434e0d1c88d/header_alt_assets_13_koreana.jpg?t=1786330120"
-    },
-    "3513350": {
-      "appid": "3513350",
-      "name": "Wuthering Waves",
-      "genres": "액션, 어드벤처, RPG, 무료 플레이",
-      "developers": "KURO GAMES",
-      "publishers": "KURO GAMES",
-      "languages": "영어*, 프랑스어, 독일어, 스페인어 - 스페인, 일본어*, 중국어 간체*, 중국어 번체, 한국어*, 태국어, 포르투갈어 - 브라질*음성이 지원되는 언어",
-      "price": "무료",
-      "release_date": "2025년 4월 28일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3513350/31df232322341c1a9d6528501431d29f249120d4/header_koreana.jpg?t=1783626990"
-    },
-    "3564740": {
-      "appid": "3564740",
-      "name": "연운",
-      "genres": "액션, 어드벤처, RPG, 무료 플레이",
-      "developers": "Everstone Studio",
-      "publishers": "NetEase Games",
-      "languages": "영어*, 일본어, 중국어 간체*, 중국어 번체*, 한국어, 프랑스어, 독일어, 스페인어 - 중남미, 포르투갈어 - 브라질, 태국어, 베트남어, 러시아어*음성이 지원되는 언어",
-      "price": "무료",
-      "release_date": "2025년 11월 14일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/30e3cee5ab28a5bdef3ef45aaa5126e2d9ee03b6/header_alt_assets_8_koreana.jpg?t=1785224697"
-    },
-    "4080220": {
-      "appid": "4080220",
-      "name": "EA SPORTS FC™ 27",
-      "genres": "시뮬레이션, 스포츠",
-      "developers": "EA CANADA, EA Romania",
-      "publishers": "Electronic Arts",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어*, 체코어, 덴마크어, 네덜란드어*, 일본어*, 한국어*, 노르웨이어, 폴란드어*, 포르투갈어 - 브라질*, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체*, 스페인어 - 중남미*, 스웨덴어, 중국어 번체, 튀르키예어**음성이 지원되는 언어",
-      "price": "$69.99",
-      "release_date": "2026년 9월 24일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/05d419a45653a1299ce46d13dbff4533fa076c1c/header.jpg?t=1785786005"
+    "252490": {
+      "appid": "252490",
+      "name": "Rust",
+      "genres": "액션, 어드벤처, 인디, 대규모 멀티플레이어, RPG",
+      "developers": "Facepunch Studios",
+      "publishers": "Facepunch Studios",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어*, 러시아어*, 중국어 간체*, 우크라이나어*, 폴란드어*, 포르투갈어 - 포르투갈*, 튀르키예어*, 아랍어, 체코어, 덴마크어, 네덜란드어, 핀란드어, 그리스어, 노르웨이어, 포르투갈어 - 브라질, 스페인어 - 중남미, 스웨덴어, 중국어 번체, 베트남어*음성이 지원되는 언어",
+      "price": "$39.99",
+      "release_date": "2018년 2월 8일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981"
     },
     "1245620": {
       "appid": "1245620",
@@ -782,28 +760,6 @@
       "release_date": "2022년 2월 24일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1784684281"
     },
-    "2231380": {
-      "appid": "2231380",
-      "name": "Tom Clancy's Ghost Recon® Breakpoint",
-      "genres": "액션, 어드벤처",
-      "developers": "Ubisoft Paris",
-      "publishers": "Ubisoft",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어, 체코어, 네덜란드어, 일본어*, 한국어, 포르투갈어 - 브라질*, 러시아어*, 중국어 간체, 스페인어 - 중남미*, 태국어, 중국어 번체*음성이 지원되는 언어",
-      "price": "$59.99",
-      "release_date": "2023년 1월 23일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/3e05f31b9aa9fd29b9709f035e73761a908e9fbe/header.jpg?t=1786026109"
-    },
-    "1941540": {
-      "appid": "1941540",
-      "name": "마피아:  올드 컨트리",
-      "genres": "액션, 어드벤처",
-      "developers": "Hangar 13",
-      "publishers": "2K",
-      "languages": "영어*, 프랑스어*, 이탈리아어, 독일어*, 스페인어 - 스페인*, 체코어*, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어*, 중국어 간체, 스페인어 - 중남미, 중국어 번체, 우크라이나어*음성이 지원되는 언어",
-      "price": "$29.99",
-      "release_date": "2025년 8월 7일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/c856b1f470f980bdc5fb6367fc5c560fe06ccea4/header_alt_assets_3.jpg?t=1786750937"
-    },
     "1086940": {
       "appid": "1086940",
       "name": "Baldur's Gate 3",
@@ -815,203 +771,71 @@
       "release_date": "2023년 8월 3일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040"
     },
-    "440": {
-      "appid": "440",
-      "name": "Team Fortress 2",
-      "genres": "액션, 무료 플레이",
-      "developers": "Valve",
-      "publishers": "Valve",
-      "languages": "영어*, 덴마크어, 네덜란드어, 핀란드어, 프랑스어, 독일어, 이탈리아어, 일본어, 노르웨이어, 폴란드어, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체, 스페인어 - 스페인, 스웨덴어, 중국어 번체, 한국어, 체코어, 헝가리어, 포르투갈어 - 브라질, 튀르키예어, 그리스어, 불가리아어, 루마니아어, 태국어, 우크라이나어, 스페인어 - 중남미*음성이 지원되는 언어",
-      "price": "무료",
-      "release_date": "2007년 10월 10일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg?t=1757348372"
-    },
-    "2073620": {
-      "appid": "2073620",
-      "name": "Arena Breakout: Infinite",
-      "genres": "액션, 어드벤처, 대규모 멀티플레이어, RPG, 전략, 무료 플레이",
-      "developers": "Morefun Studios",
-      "publishers": "Morefun Studios",
-      "languages": "영어*, 중국어 번체*, 독일어, 러시아어, 일본어, 포르투갈어 - 브라질, 스페인어 - 중남미, 중국어 간체*, 프랑스어*음성이 지원되는 언어",
-      "price": "무료",
-      "release_date": "2025년 9월 15일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/c8b016ff8790f74ee14c5e556d52b846052bd367/header.jpg?t=1785832840"
-    },
-    "4025700": {
-      "appid": "4025700",
-      "name": "두근두근타운",
-      "genres": "캐주얼, 시뮬레이션, 무료 플레이",
-      "developers": "XD",
-      "publishers": "XD",
-      "languages": "영어, 프랑스어, 독일어, 일본어, 태국어, 중국어 간체, 중국어 번체, 포르투갈어 - 브라질, 스페인어 - 중남미, 한국어, 인도네시아어, 러시아어",
-      "price": "무료",
-      "release_date": "2026년 1월 16일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025700/2228fe487077813485fe804a4f8311c289d69901/header_alt_assets_0.jpg?t=1783671810"
-    },
-    "812140": {
-      "appid": "812140",
-      "name": "Assassin's Creed® Odyssey",
-      "genres": "액션, 어드벤처, RPG",
-      "developers": "Ubisoft Quebec, Ubisoft Montreal, Ubisoft Bucharest, Ubisoft Singapore, Ubisoft Montpellier, Ubisoft Kiev, Ubisoft Shanghai",
-      "publishers": "Ubisoft",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어, 체코어, 네덜란드어, 일본어*, 한국어, 폴란드어, 포르투갈어 - 브라질*, 러시아어*, 중국어 간체, 중국어 번체*음성이 지원되는 언어",
-      "price": "$11.99",
-      "release_date": "2018년 10월 5일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg?t=1786633104"
-    },
-    "2807960": {
-      "appid": "2807960",
-      "name": "Battlefield™ 6",
-      "genres": "액션",
-      "developers": "Battlefield Studios",
-      "publishers": "Electronic Arts",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어, 일본어*, 한국어*, 폴란드어*, 포르투갈어 - 브라질*, 중국어 간체*, 스페인어 - 중남미*, 중국어 번체*음성이 지원되는 언어",
-      "price": "$69.99",
-      "release_date": "2025년 10월 10일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1786633200"
-    },
-    "594570": {
-      "appid": "594570",
-      "name": "토탈워: 워해머 2",
-      "genres": "액션, 전략",
-      "developers": "CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)",
-      "publishers": "SEGA, Feral Interactive (Mac), Feral Interactive (Linux)",
-      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 체코어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 튀르키예어, 중국어 간체, 중국어 번체*음성이 지원되는 언어",
-      "price": "$14.99",
-      "release_date": "2017년 9월 28일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/header.jpg?t=1780389571"
-    },
-    "4570720": {
-      "appid": "4570720",
-      "name": "드래곤소드 : 어웨이크닝",
-      "genres": "액션, 어드벤처, RPG",
-      "developers": "Hound13 Inc.",
-      "publishers": "Hound13 Inc.",
-      "languages": "영어, 일본어, 한국어*, 중국어 간체, 중국어 번체, 프랑스어, 독일어, 스페인어 - 스페인, 러시아어, 태국어, 포르투갈어 - 브라질*음성이 지원되는 언어",
-      "price": "$29.99",
-      "release_date": "2026년 7월 22일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1786058861"
-    },
-    "2958130": {
-      "appid": "2958130",
-      "name": "쥬라기 월드 에볼루션 3",
-      "genres": "시뮬레이션, 전략",
-      "developers": "Frontier Developments",
-      "publishers": "Frontier Developments",
-      "languages": "영어*, 프랑스어*, 독일어*, 스페인어 - 스페인*, 포르투갈어 - 브라질*, 중국어 간체*, 스페인어 - 중남미*, 이탈리아어, 일본어*, 한국어, 폴란드어, 중국어 번체*음성이 지원되는 언어",
-      "price": "$40.19",
-      "release_date": "2025년 10월 21일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/5d0e48e90bbf775d6d3f98edab2ff56b357204da/header_koreana.jpg?t=1786453396"
-    },
-    "2186680": {
-      "appid": "2186680",
-      "name": "Warhammer 40,000: Rogue Trader",
-      "genres": "액션, 어드벤처, 인디, RPG, 전략",
-      "developers": "Owlcat Games",
-      "publishers": "Owlcat Games",
-      "languages": "영어*, 프랑스어, 독일어, 스페인어 - 스페인, 러시아어, 중국어 간체, 일본어, 튀르키예어*음성이 지원되는 언어",
-      "price": "$19.99",
-      "release_date": "2023년 12월 7일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/c7b0bd6f233f6c03fa68eee2fd1108a183329230/header.jpg?t=1781198086"
-    },
-    "2661300": {
-      "appid": "2661300",
-      "name": "Grounded 2",
-      "genres": "액션, 어드벤처, 앞서 해보기",
-      "developers": "Obsidian Entertainment, Eidos-Montréal",
-      "publishers": "Xbox Game Studios",
-      "languages": "영어*, 프랑스어*, 이탈리아어, 독일어, 스페인어 - 스페인, 스페인어 - 중남미, 중국어 간체, 일본어, 포르투갈어 - 포르투갈, 한국어, 중국어 번체*음성이 지원되는 언어",
-      "price": "$29.99",
-      "release_date": "2025년 7월 29일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b52405d3dd3d4bfd356cd9af7b399bcbc5a23f7e/header.jpg?t=1786582449"
-    },
-    "541570": {
-      "appid": "541570",
-      "name": "Sally Face - Episode One",
-      "genres": "어드벤처, 인디",
-      "developers": "Portable Moose",
-      "publishers": "Portable Moose",
-      "languages": "영어, 러시아어, 이탈리아어, 독일어, 중국어 번체, 포르투갈어 - 브라질, 프랑스어, 스페인어 - 스페인",
-      "price": "$0.98",
-      "release_date": "2016년 12월 14일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541570/header.jpg?t=1786899980"
-    },
-    "2868840": {
-      "appid": "2868840",
-      "name": "Slay the Spire 2",
-      "genres": "인디, 전략, 앞서 해보기",
-      "developers": "Mega Crit",
-      "publishers": "Mega Crit",
-      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 스페인어 - 중남미, 태국어, 튀르키예어",
-      "price": "$24.99",
-      "release_date": "2026년 3월 5일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1786139218"
-    },
-    "2161700": {
-      "appid": "2161700",
-      "name": "페르소나3 리로드",
-      "genres": "어드벤처, RPG, 전략",
+    "1687950": {
+      "appid": "1687950",
+      "name": "페르소나 5 더 로열",
+      "genres": "RPG",
       "developers": "ATLUS",
       "publishers": "SEGA",
-      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어*, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체, 튀르키예어*음성이 지원되는 언어",
-      "price": "$20.99",
-      "release_date": "2024년 2월 1일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430"
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어*, 한국어, 중국어 간체, 중국어 번체*음성이 지원되는 언어",
+      "price": "$17.99",
+      "release_date": "2022년 10월 20일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header_koreana.jpg?t=1783356822"
     },
-    "39210": {
-      "appid": "39210",
-      "name": "FINAL FANTASY XIV Online",
-      "genres": "대규모 멀티플레이어, RPG",
-      "developers": "Square Enix",
-      "publishers": "Square Enix",
-      "languages": "영어*, 프랑스어*, 독일어*, 일본어**음성이 지원되는 언어",
-      "price": "$19.99",
-      "release_date": "2014년 2월 18일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39210/header.jpg?t=1782870674"
-    },
-    "2139460": {
-      "appid": "2139460",
-      "name": "Once Human",
-      "genres": "액션, 어드벤처, 캐주얼, 대규모 멀티플레이어, 레이싱, RPG, 시뮬레이션, 전략, 무료 플레이",
-      "developers": "Starry Studio",
-      "publishers": "Starry Studio, NetEase Games",
-      "languages": "영어*, 중국어 간체*, 프랑스어, 독일어, 일본어, 한국어, 중국어 번체, 포르투갈어 - 브라질, 스페인어 - 중남미, 러시아어*음성이 지원되는 언어",
-      "price": "무료",
-      "release_date": "2024년 7월 9일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/c18b08a2f93dec32fcc5fa71bc2da44ee42de1f0/header.jpg?t=1786675226"
-    },
-    "4212480": {
-      "appid": "4212480",
-      "name": "Ragnarok: The New World",
-      "genres": "액션, 어드벤처, 대규모 멀티플레이어, RPG, 무료 플레이",
-      "developers": "Gravity Game Vision Limited",
-      "publishers": "Gravity Game Vision Limited",
-      "languages": "영어*, 인도네시아어*, 태국어*, 중국어 간체**음성이 지원되는 언어",
-      "price": "무료",
-      "release_date": "2026년 7월 26일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212480/95dc4b582f4d09290a50f6ea717136df91247be6/header.jpg?t=1786682419"
-    },
-    "438100": {
-      "appid": "438100",
-      "name": "VRChat",
-      "genres": "어드벤처, 캐주얼, 대규모 멀티플레이어, 시뮬레이션, 스포츠, 무료 플레이, 앞서 해보기",
-      "developers": "VRChat Inc.",
-      "publishers": "VRChat Inc.",
-      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체",
-      "price": "무료",
-      "release_date": "2017년 2월 1일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg?t=1762366454"
-    },
-    "3167920": {
-      "appid": "3167920",
-      "name": "Low-Budget Repairs",
+    "270880": {
+      "appid": "270880",
+      "name": "American Truck Simulator",
       "genres": "인디, 시뮬레이션",
-      "developers": "Gray2RGB",
-      "publishers": "Simplicity Games, PlayWay S.A.",
-      "languages": "영어*, 폴란드어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 중국어 간체, 체코어, 일본어, 한국어, 포르투갈어 - 포르투갈, 포르투갈어 - 브라질, 러시아어, 루마니아어, 튀르키예어, 우크라이나어, 헝가리어, 베트남어*음성이 지원되는 언어",
-      "price": "$14.99",
-      "release_date": "2026년 8월 13일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167920/38c43a0e11512df9329e8899d93c645ea976c8c3/header.jpg?t=1786718489"
+      "developers": "SCS Software",
+      "publishers": "SCS Software",
+      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 불가리아어, 체코어, 덴마크어, 네덜란드어, 핀란드어, 그리스어, 헝가리어, 일본어, 한국어, 노르웨이어, 폴란드어, 포르투갈어 - 포르투갈, 포르투갈어 - 브라질, 루마니아어, 러시아어, 중국어 간체, 스웨덴어, 튀르키예어, 우크라이나어, 중국어 번체, 카탈로니아어, 리투아니아어, 세르비아어, 슬로바키아어, 슬로베니아어",
+      "price": "$4.99",
+      "release_date": "2016년 2월 2일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/a80e5a18363259677ca96c2a39503ea595d2a45f/header.jpg?t=1781788415"
+    },
+    "3527290": {
+      "appid": "3527290",
+      "name": "PEAK",
+      "genres": "액션, 어드벤처, 인디",
+      "developers": "Team PEAK",
+      "publishers": "Aggro Crab, Evil Landfall?",
+      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 스페인어 - 중남미, 우크라이나어, 폴란드어, 튀르키예어, 중국어 번체",
+      "price": "$7.99",
+      "release_date": "2025년 6월 16일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571"
+    },
+    "3722330": {
+      "appid": "3722330",
+      "name": "Shift At Midnight",
+      "genres": "인디, 시뮬레이션",
+      "developers": "Bun Muen",
+      "publishers": "Kwalee",
+      "languages": "영어*, 프랑스어*, 독일어*, 스페인어 - 스페인*, 일본어*, 러시아어*, 중국어 간체*, 중국어 번체*, 포르투갈어 - 브라질**음성이 지원되는 언어",
+      "price": "$9.99",
+      "release_date": "2026년 7월 22일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1787088182"
+    },
+    "3892270": {
+      "appid": "3892270",
+      "name": "Gamble With Your Friends",
+      "genres": "어드벤처, 인디, 시뮬레이션",
+      "developers": "TEAM GWYF",
+      "publishers": "TENSTACK",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 스페인어 - 중남미, 튀르키예어, 우크라이나어*음성이 지원되는 언어",
+      "price": "$7.99",
+      "release_date": "2026년 5월 1일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1787427173"
+    },
+    "2537590": {
+      "appid": "2537590",
+      "name": "Microsoft Flight Simulator 2024",
+      "genres": "시뮬레이션",
+      "developers": "Asobo Studio",
+      "publishers": "Xbox Game Studios",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 네덜란드어*, 핀란드어*, 일본어*, 한국어*, 노르웨이어*, 폴란드어*, 포르투갈어 - 브라질*, 포르투갈어 - 포르투갈*, 러시아어*, 중국어 간체*, 스페인어 - 중남미*, 스웨덴어*, 튀르키예어**음성이 지원되는 언어",
+      "price": "$48.99",
+      "release_date": "2024년 11월 19일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1780854662"
     },
     "4162040": {
       "appid": "4162040",
@@ -1024,27 +848,104 @@
       "release_date": "2026년 6월 16일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162040/5493d6a5572ed2220096a5af5da660493d3a4ec2/header_alt_assets_0_koreana.jpg?t=1785276247"
     },
-    "3405690": {
-      "appid": "3405690",
-      "name": "EA SPORTS FC™ 26",
-      "genres": "시뮬레이션, 스포츠",
-      "developers": "EA Canada, EA Romania",
-      "publishers": "Electronic Arts",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어*, 네덜란드어*, 일본어*, 한국어*, 폴란드어*, 포르투갈어 - 브라질*, 중국어 간체*, 스페인어 - 중남미*, 튀르키예어*, 체코어, 덴마크어, 노르웨이어, 포르투갈어 - 포르투갈, 러시아어, 스웨덴어, 중국어 번체*음성이 지원되는 언어",
-      "price": "$69.99",
-      "release_date": "2025년 9월 25일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/2d96aa1b06e453cd62dae9029d412f19e61932c3/header.jpg?t=1785772769"
+    "4704690": {
+      "appid": "4704690",
+      "name": "MECCHA CHAMELEON",
+      "genres": "캐주얼",
+      "developers": "lemorion_1224",
+      "publishers": "lemorion_1224",
+      "languages": "영어, 일본어, 스페인어 - 스페인, 중국어 간체, 한국어, 프랑스어, 이탈리아어, 독일어, 아랍어, 포르투갈어 - 브라질, 러시아어, 중국어 번체, 튀르키예어",
+      "price": "$5.99",
+      "release_date": "2026년 6월 9일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1785908480"
     },
-    "3321460": {
-      "appid": "3321460",
-      "name": "붉은사막",
-      "genres": "액션, 어드벤처",
-      "developers": "Pearl Abyss",
-      "publishers": "Pearl Abyss",
-      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어*, 폴란드어, 러시아어, 중국어 간체*, 스페인어 - 중남미, 중국어 번체, 포르투갈어 - 브라질, 튀르키예어*음성이 지원되는 언어",
+    "2807960": {
+      "appid": "2807960",
+      "name": "Battlefield™ 6",
+      "genres": "액션",
+      "developers": "Battlefield Studios",
+      "publishers": "Electronic Arts",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어, 일본어*, 한국어*, 폴란드어*, 포르투갈어 - 브라질*, 중국어 간체*, 스페인어 - 중남미*, 중국어 번체*음성이 지원되는 언어",
       "price": "$69.99",
-      "release_date": "2026년 3월 19일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/905a27028fe2cb3bfbffb7ae006847e8ee4eec53/header_koreana.jpg?t=1781661893"
+      "release_date": "2025년 10월 10일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1787065389"
+    },
+    "2185060": {
+      "appid": "2185060",
+      "name": "투 포인트 뮤지엄",
+      "genres": "캐주얼, 인디, 시뮬레이션, 전략",
+      "developers": "Two Point Studios",
+      "publishers": "SEGA",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어*, 스페인어 - 스페인, 일본어*, 한국어, 포르투갈어 - 브라질, 중국어 간체*, 중국어 번체, 튀르키예어, 폴란드어, 러시아어, 스페인어 - 중남미, 태국어*음성이 지원되는 언어",
+      "price": "$20.09",
+      "release_date": "2025년 3월 4일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2185060/f518d1aa2754296e280ba3fe0d2bd4392fa6e3eb/header.jpg?t=1787235787"
+    },
+    "1313140": {
+      "appid": "1313140",
+      "name": "Cult of the Lamb",
+      "genres": "액션, 어드벤처, 인디, 전략",
+      "developers": "Massive Monster",
+      "publishers": "Devolver Digital",
+      "languages": "영어, 프랑스어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체, 이탈리아어, 아랍어, 네덜란드어, 튀르키예어",
+      "price": "$9.99",
+      "release_date": "2022년 8월 11일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/19f32bb477a6e9d058e05193b4e282149bd70644/header.jpg?t=1786554901"
+    },
+    "3751950": {
+      "appid": "3751950",
+      "name": "어쌔신 크리드 블랙 플래그 리싱크드",
+      "genres": "액션, 어드벤처",
+      "developers": "Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai, Ubisoft Montreal, Ubisoft Romania",
+      "publishers": "Ubisoft",
+      "languages": "프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어, 중국어 간체*, 중국어 번체, 한국어, 일본어*, 폴란드어, 포르투갈어 - 브라질*, 러시아어, 영어**음성이 지원되는 언어",
+      "price": "$59.99",
+      "release_date": "2026년 7월 9일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/a9683f2e7e4996f37599bce0942eb7be4c65b682/header_koreana.jpg?t=1787238812"
+    },
+    "440": {
+      "appid": "440",
+      "name": "Team Fortress 2",
+      "genres": "액션, 무료 플레이",
+      "developers": "Valve",
+      "publishers": "Valve",
+      "languages": "영어*, 덴마크어, 네덜란드어, 핀란드어, 프랑스어, 독일어, 이탈리아어, 일본어, 노르웨이어, 폴란드어, 포르투갈어 - 포르투갈, 러시아어, 중국어 간체, 스페인어 - 스페인, 스웨덴어, 중국어 번체, 한국어, 체코어, 헝가리어, 포르투갈어 - 브라질, 튀르키예어, 그리스어, 불가리아어, 루마니아어, 태국어, 우크라이나어, 스페인어 - 중남미*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2007년 10월 10일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg?t=1757348372"
+    },
+    "3859630": {
+      "appid": "3859630",
+      "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
+      "genres": "액션, 어드벤처",
+      "developers": "KONAMI",
+      "publishers": "KONAMI",
+      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어",
+      "price": "$49.99",
+      "release_date": "2026년 8월 27일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3859630/31d5f5ef4a143bf915429e307f37cab6e2939678/header.jpg?t=1785227706"
+    },
+    "2486820": {
+      "appid": "2486820",
+      "name": "소닉 레이싱 크로스월드",
+      "genres": "액션, 어드벤처, 레이싱",
+      "developers": "Sonic Team",
+      "publishers": "SEGA",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체*, 태국어, 중국어 번체, 스페인어 - 중남미*음성이 지원되는 언어",
+      "price": "$27.99",
+      "release_date": "2025년 9월 25일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/53b7e07b174f451fef2c7ef02fa32d67c8ab360b/header_alt_assets_12_koreana.jpg?t=1786100500"
+    },
+    "2868840": {
+      "appid": "2868840",
+      "name": "Slay the Spire 2",
+      "genres": "인디, 전략, 앞서 해보기",
+      "developers": "Mega Crit",
+      "publishers": "Mega Crit",
+      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 스페인어 - 중남미, 태국어, 튀르키예어",
+      "price": "$24.99",
+      "release_date": "2026년 3월 5일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1787169309"
     },
     "2694490": {
       "appid": "2694490",
@@ -1057,137 +958,115 @@
       "release_date": "2024년 12월 6일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1781573777"
     },
-    "2300320": {
-      "appid": "2300320",
-      "name": "Farming Simulator 25",
-      "genres": "시뮬레이션",
-      "developers": "GIANTS Software",
-      "publishers": "GIANTS Software",
-      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 체코어, 덴마크어, 네덜란드어, 핀란드어, 헝가리어, 일본어, 한국어, 노르웨이어, 폴란드어, 포르투갈어 - 브라질, 포르투갈어 - 포르투갈, 루마니아어, 러시아어, 중국어 간체, 스페인어 - 중남미, 스웨덴어, 중국어 번체, 튀르키예어, 우크라이나어, 베트남어, 인도네시아어*음성이 지원되는 언어",
-      "price": "$29.99",
-      "release_date": "2024년 11월 12일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/c2a205133d23cd24faf3c152d972a1d0177661b8/header.jpg?t=1784811772"
+    "262060": {
+      "appid": "262060",
+      "name": "Darkest Dungeon®",
+      "genres": "인디, RPG, 전략",
+      "developers": "Red Hook Studios",
+      "publishers": "Red Hook Studios",
+      "languages": "영어*, 프랑스어, 독일어, 스페인어 - 스페인, 체코어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 이탈리아어, 중국어 간체, 한국어, 일본어*음성이 지원되는 언어",
+      "price": "$3.74",
+      "release_date": "2016년 1월 19일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/header.jpg?t=1787073267"
     },
-    "3892270": {
-      "appid": "3892270",
-      "name": "Gamble With Your Friends",
-      "genres": "어드벤처, 인디, 시뮬레이션",
-      "developers": "TEAM GWYF",
-      "publishers": "TENSTACK",
-      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 스페인어 - 중남미, 튀르키예어, 우크라이나어*음성이 지원되는 언어",
-      "price": "₩ 8,900",
-      "release_date": "2026년 5월 1일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1785797127"
-    },
-    "1817070": {
-      "appid": "1817070",
-      "name": "Marvel’s Spider-Man Remastered",
-      "genres": "액션, 어드벤처, 캐주얼",
-      "developers": "Insomniac Games, Nixxes Software",
-      "publishers": "PlayStation Publishing LLC",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 체코어, 덴마크어, 네덜란드어, 핀란드어, 그리스어, 헝가리어, 일본어*, 한국어, 노르웨이어, 폴란드어*, 포르투갈어 - 포르투갈*, 포르투갈어 - 브라질*, 러시아어*, 스페인어 - 중남미*, 스웨덴어, 중국어 번체*음성이 지원되는 언어",
-      "price": "$59.99",
-      "release_date": "2022년 8월 12일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1763569047"
-    },
-    "364360": {
-      "appid": "364360",
-      "name": "토탈워: 워해머",
-      "genres": "액션, 전략",
-      "developers": "CREATIVE ASSEMBLY, Feral Interactive (Linux), Feral Interactive (Mac)",
-      "publishers": "SEGA, Feral Interactive (Linux), Feral Interactive (Mac)",
-      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 튀르키예어, 체코어, 중국어 간체, 중국어 번체*음성이 지원되는 언어",
-      "price": "$14.99",
-      "release_date": "2016년 5월 24일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/header.jpg?t=1780389642"
-    },
-    "1085660": {
-      "appid": "1085660",
-      "name": "데스티니 가디언즈",
-      "genres": "액션, 어드벤처, 무료 플레이",
-      "developers": "Bungie",
-      "publishers": "Bungie",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어*, 폴란드어*, 포르투갈어 - 브라질*, 러시아어*, 중국어 간체*, 스페인어 - 중남미*, 중국어 번체*음성이 지원되는 언어",
-      "price": "무료",
-      "release_date": "2019년 10월 1일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/34e901dac9d959129d25c4b7ae8def80df99827e/header_koreana.jpg?t=1781815889"
-    },
-    "4032350": {
-      "appid": "4032350",
-      "name": "EA SPORTS™ College Football 27",
-      "genres": "시뮬레이션, 스포츠",
-      "developers": "Tiburon",
-      "publishers": "Electronic Arts",
-      "languages": "영어**음성이 지원되는 언어",
-      "price": "$69.99",
-      "release_date": "2026년 7월 9일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1786711050"
-    },
-    "3164500": {
-      "appid": "3164500",
-      "name": "Schedule I",
-      "genres": "액션, 인디, 시뮬레이션, 전략, 앞서 해보기",
-      "developers": "TVGS",
-      "publishers": "TVGS",
-      "languages": "영어**음성이 지원되는 언어",
+    "39210": {
+      "appid": "39210",
+      "name": "FINAL FANTASY XIV Online",
+      "genres": "대규모 멀티플레이어, RPG",
+      "developers": "Square Enix",
+      "publishers": "Square Enix",
+      "languages": "영어*, 프랑스어*, 독일어*, 일본어**음성이 지원되는 언어",
       "price": "$19.99",
-      "release_date": "2025년 3월 24일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1785744977"
+      "release_date": "2014년 2월 18일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39210/header.jpg?t=1782870674"
     },
-    "431960": {
-      "appid": "431960",
-      "name": "Wallpaper Engine",
-      "genres": "캐주얼, 인디, 애니메이션과 모델링, 디자인과 일러스트레이션, 사진 편집, 유틸리티",
-      "developers": "Wallpaper Engine Team",
-      "publishers": "Wallpaper Engine Team",
-      "languages": "영어, 독일어, 중국어 간체, 폴란드어, 포르투갈어 - 브라질, 프랑스어, 이탈리아어, 스페인어 - 스페인, 핀란드어, 일본어, 한국어, 스웨덴어, 태국어, 중국어 번체, 튀르키예어, 포르투갈어 - 포르투갈, 러시아어, 덴마크어, 체코어, 아랍어, 우크라이나어, 인도네시아어, 페르시아어",
-      "price": "$4.99",
-      "release_date": "2018년 11월 16일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230"
-    },
-    "376210": {
-      "appid": "376210",
-      "name": "The Isle",
-      "genres": "액션, 어드벤처, 인디, 대규모 멀티플레이어, 시뮬레이션, 앞서 해보기",
-      "developers": "Afterthought LLC",
-      "publishers": "Afterthought LLC",
-      "languages": "영어**음성이 지원되는 언어",
-      "price": "$19.99",
-      "release_date": "2015년 12월 1일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/376210/header.jpg?t=1653237914"
-    },
-    "413150": {
-      "appid": "413150",
-      "name": "Stardew Valley",
-      "genres": "인디, RPG, 시뮬레이션",
-      "developers": "ConcernedApe",
-      "publishers": "ConcernedApe",
-      "languages": "영어, 독일어, 스페인어 - 스페인, 일본어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 프랑스어, 이탈리아어, 헝가리어, 한국어, 튀르키예어",
-      "price": "$14.99",
-      "release_date": "2016년 2월 26일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168"
-    },
-    "1962700": {
-      "appid": "1962700",
-      "name": "서브노티카 2",
-      "genres": "액션, 어드벤처, 앞서 해보기",
-      "developers": "Unknown Worlds Entertainment",
-      "publishers": "Unknown Worlds Entertainment",
-      "languages": "영어*, 독일어, 한국어, 포르투갈어 - 브라질, 스페인어 - 중남미, 프랑스어, 일본어, 중국어 간체, 이탈리아어, 러시아어, 우크라이나어*음성이 지원되는 언어",
-      "price": "$29.99",
-      "release_date": "2026년 5월 14일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg?t=1785967256"
-    },
-    "3241660": {
-      "appid": "3241660",
-      "name": "R.E.P.O.",
-      "genres": "액션, 앞서 해보기",
-      "developers": "semiwork",
-      "publishers": "semiwork",
-      "languages": "영어**음성이 지원되는 언어",
+    "1868140": {
+      "appid": "1868140",
+      "name": "데이브 더 다이버",
+      "genres": "어드벤처, 캐주얼, RPG, 시뮬레이션",
+      "developers": "MINTROCKET",
+      "publishers": "MINTROCKET",
+      "languages": "영어, 한국어, 일본어, 중국어 간체, 독일어, 스페인어 - 스페인, 중국어 번체, 프랑스어, 포르투갈어 - 브라질, 이탈리아어, 러시아어",
       "price": "$9.99",
-      "release_date": "2025년 2월 26일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1778158882"
+      "release_date": "2023년 6월 28일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/81bdb3bce15d27ca1b4554a642d91096e89be229/header.jpg?t=1786442860"
+    },
+    "632360": {
+      "appid": "632360",
+      "name": "Risk of Rain 2",
+      "genres": "액션, 인디",
+      "developers": "Hopoo Games",
+      "publishers": "Gearbox Publishing, 2K",
+      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 튀르키예어",
+      "price": "$8.24",
+      "release_date": "2020년 8월 11일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg?t=1783621122"
+    },
+    "4508340": {
+      "appid": "4508340",
+      "name": "이환",
+      "genres": "액션, 어드벤처, RPG, 무료 플레이",
+      "developers": "Hotta Studio",
+      "publishers": "Perfect World Games",
+      "languages": "영어*, 프랑스어, 독일어, 스페인어 - 스페인, 러시아어, 일본어*, 중국어 간체*, 한국어*, 중국어 번체*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2026년 7월 7일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/5585ab0e15fd71258444959c3a759431f3a57d26/header_koreana.jpg?t=1787092926"
+    },
+    "2141910": {
+      "appid": "2141910",
+      "name": "Magic: The Gathering Arena",
+      "genres": "전략, 무료 플레이",
+      "developers": "Wizards of the Coast",
+      "publishers": "Wizards of the Coast",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 스페인어 - 중남미*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2023년 5월 23일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2141910/716866a49db0a2a1051f66e11fcd8c9c905173de/header_koreana.jpg?t=1783012538"
+    },
+    "1332010": {
+      "appid": "1332010",
+      "name": "Stray",
+      "genres": "어드벤처, 인디",
+      "developers": "BlueTwelve Studio",
+      "publishers": "Annapurna Interactive",
+      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 스페인어 - 중남미, 중국어 번체, 튀르키예어, 네덜란드어, 포르투갈어 - 포르투갈",
+      "price": "$14.99",
+      "release_date": "2022년 7월 19일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/71daca1910d664d31240b9623a495e0c0828807f/header.jpg?t=1785424330"
+    },
+    "753640": {
+      "appid": "753640",
+      "name": "Outer Wilds",
+      "genres": "액션, 어드벤처",
+      "developers": "Mobius Digital",
+      "publishers": "Annapurna Interactive",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 스페인어 - 중남미, 스페인어 - 스페인, 튀르키예어*음성이 지원되는 언어",
+      "price": "$14.99",
+      "release_date": "2020년 6월 18일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341"
+    },
+    "2073620": {
+      "appid": "2073620",
+      "name": "Arena Breakout: Infinite",
+      "genres": "액션, 어드벤처, 대규모 멀티플레이어, RPG, 전략, 무료 플레이",
+      "developers": "Morefun Studios",
+      "publishers": "Morefun Studios",
+      "languages": "영어*, 중국어 번체*, 독일어, 러시아어, 일본어, 포르투갈어 - 브라질, 스페인어 - 중남미, 중국어 간체*, 프랑스어*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2025년 9월 15일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/c8b016ff8790f74ee14c5e556d52b846052bd367/header.jpg?t=1785832840"
+    },
+    "2661300": {
+      "appid": "2661300",
+      "name": "Grounded 2",
+      "genres": "액션, 어드벤처, 앞서 해보기",
+      "developers": "Obsidian Entertainment, Eidos-Montréal",
+      "publishers": "Xbox Game Studios",
+      "languages": "영어*, 프랑스어*, 이탈리아어, 독일어, 스페인어 - 스페인, 스페인어 - 중남미, 중국어 간체, 일본어, 포르투갈어 - 포르투갈, 한국어, 중국어 번체, 포르투갈어 - 브라질*음성이 지원되는 언어",
+      "price": "$29.99",
+      "release_date": "2025년 7월 29일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b52405d3dd3d4bfd356cd9af7b399bcbc5a23f7e/header.jpg?t=1787010637"
     },
     "1449850": {
       "appid": "1449850",
@@ -1200,16 +1079,60 @@
       "release_date": "2022년 1월 18일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449850/3dabbf618664c7a561202771e3754b6690949159/header.jpg?t=1785465152"
     },
-    "306130": {
-      "appid": "306130",
-      "name": "The Elder Scrolls® Online",
-      "genres": "액션, 어드벤처, 대규모 멀티플레이어, RPG",
-      "developers": "ZeniMax Online Studios",
-      "publishers": "Bethesda Softworks",
-      "languages": "영어*, 프랑스어*, 독일어*, 러시아어, 스페인어 - 스페인, 중국어 간체, 일본어**음성이 지원되는 언어",
+    "3812600": {
+      "appid": "3812600",
+      "name": "ReStory: Chill Electronics Repairs",
+      "genres": "인디, 시뮬레이션",
+      "developers": "Mandragora",
+      "publishers": "tinyBuild",
+      "languages": "영어, 프랑스어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 중국어 간체",
       "price": "$19.99",
-      "release_date": "2017년 5월 22일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/465cc6917d2ed89c364ebfca85da07f79a2abfd6/header.jpg?t=1783621796"
+      "release_date": "2026년 8월 6일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/c6b42e4ff45667bddcffc9710ed4c4184b6d6950/header_alt_assets_3_koreana.jpg?t=1787245453"
+    },
+    "2679460": {
+      "appid": "2679460",
+      "name": "메타포: 리판타지오",
+      "genres": "액션, 어드벤처, RPG",
+      "developers": "ATLUS",
+      "publishers": "SEGA",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어*, 한국어, 러시아어, 중국어 간체, 중국어 번체, 포르투갈어 - 브라질, 스페인어 - 중남미*음성이 지원되는 언어",
+      "price": "$27.99",
+      "release_date": "2024년 10월 10일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/header.jpg?t=1764776325"
+    },
+    "2139460": {
+      "appid": "2139460",
+      "name": "Once Human",
+      "genres": "액션, 어드벤처, 캐주얼, 대규모 멀티플레이어, 레이싱, RPG, 시뮬레이션, 전략, 무료 플레이",
+      "developers": "Starry Studio",
+      "publishers": "Starry Studio, NetEase Games",
+      "languages": "영어*, 중국어 간체*, 프랑스어, 독일어, 일본어, 한국어, 중국어 번체, 포르투갈어 - 브라질, 스페인어 - 중남미, 러시아어*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2024년 7월 9일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/c18b08a2f93dec32fcc5fa71bc2da44ee42de1f0/header.jpg?t=1786675226"
+    },
+    "3751260": {
+      "appid": "3751260",
+      "name": "The Blood of Dawnwalker 더 블러드 오브 던워커",
+      "genres": "액션, 어드벤처, RPG",
+      "developers": "Rebel Wolves",
+      "publishers": "Bandai Namco Entertainment",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 체코어, 헝가리어, 일본어, 한국어, 폴란드어*, 포르투갈어 - 브라질, 중국어 간체, 스페인어 - 중남미, 중국어 번체, 튀르키예어*음성이 지원되는 언어",
+      "price": "$69.99",
+      "release_date": "2026년 9월 2일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a036c8739673ee053c0560aa452b0f4840e62b7f/header_koreana.jpg?t=1787058893"
+    },
+    "1962700": {
+      "appid": "1962700",
+      "name": "서브노티카 2",
+      "genres": "액션, 어드벤처, 앞서 해보기",
+      "developers": "Unknown Worlds Entertainment",
+      "publishers": "Unknown Worlds Entertainment",
+      "languages": "영어*, 독일어, 한국어, 포르투갈어 - 브라질, 스페인어 - 중남미, 프랑스어, 일본어, 중국어 간체, 이탈리아어, 러시아어, 우크라이나어*음성이 지원되는 언어",
+      "price": "$29.99",
+      "release_date": "2026년 5월 14일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg?t=1785967256"
     },
     "1091500": {
       "appid": "1091500",
@@ -1222,27 +1145,148 @@
       "release_date": "2020년 12월 9일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/26b96fa9c8af43189cbecbbc329ade29d9c9cf3e/header_koreana.jpg?t=1784714077"
     },
-    "2537590": {
-      "appid": "2537590",
-      "name": "Microsoft Flight Simulator 2024",
-      "genres": "시뮬레이션",
-      "developers": "Asobo Studio",
-      "publishers": "Xbox Game Studios",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 네덜란드어*, 핀란드어*, 일본어*, 한국어*, 노르웨이어*, 폴란드어*, 포르투갈어 - 브라질*, 포르투갈어 - 포르투갈*, 러시아어*, 중국어 간체*, 스페인어 - 중남미*, 스웨덴어*, 튀르키예어**음성이 지원되는 언어",
+    "3321460": {
+      "appid": "3321460",
+      "name": "붉은사막",
+      "genres": "액션, 어드벤처",
+      "developers": "Pearl Abyss",
+      "publishers": "Pearl Abyss",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어*, 폴란드어, 러시아어, 중국어 간체*, 스페인어 - 중남미, 중국어 번체, 포르투갈어 - 브라질, 튀르키예어*음성이 지원되는 언어",
       "price": "$69.99",
-      "release_date": "2024년 11월 19일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1780854662"
+      "release_date": "2026년 3월 19일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/905a27028fe2cb3bfbffb7ae006847e8ee4eec53/header_koreana.jpg?t=1781661893"
     },
-    "2523720": {
-      "appid": "2523720",
-      "name": "Gears of War: Reloaded",
+    "431960": {
+      "appid": "431960",
+      "name": "Wallpaper Engine",
+      "genres": "캐주얼, 인디, 애니메이션과 모델링, 디자인과 일러스트레이션, 사진 편집, 유틸리티",
+      "developers": "Wallpaper Engine Team",
+      "publishers": "Wallpaper Engine Team",
+      "languages": "영어, 독일어, 중국어 간체, 폴란드어, 포르투갈어 - 브라질, 프랑스어, 이탈리아어, 스페인어 - 스페인, 핀란드어, 일본어, 한국어, 스웨덴어, 태국어, 중국어 번체, 튀르키예어, 포르투갈어 - 포르투갈, 러시아어, 덴마크어, 체코어, 아랍어, 우크라이나어, 인도네시아어, 페르시아어",
+      "price": "$4.99",
+      "release_date": "2018년 11월 16일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230"
+    },
+    "4570720": {
+      "appid": "4570720",
+      "name": "드래곤소드 : 어웨이크닝",
+      "genres": "액션, 어드벤처, RPG",
+      "developers": "Hound13 Inc.",
+      "publishers": "Hound13 Inc.",
+      "languages": "영어, 일본어, 한국어*, 중국어 간체, 중국어 번체, 프랑스어, 독일어, 스페인어 - 스페인, 러시아어, 태국어, 포르투갈어 - 브라질*음성이 지원되는 언어",
+      "price": "$29.99",
+      "release_date": "2026년 7월 22일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1787105406"
+    },
+    "3282300": {
+      "appid": "3282300",
+      "name": "Mistfall Hunter",
+      "genres": "액션, 어드벤처",
+      "developers": "Bellring Games",
+      "publishers": "Skystone Games",
+      "languages": "영어*, 중국어 간체, 스페인어 - 스페인, 러시아어, 일본어, 중국어 번체, 한국어, 프랑스어, 독일어, 포르투갈어 - 브라질*음성이 지원되는 언어",
+      "price": "$24.99",
+      "release_date": "2026년 7월 29일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/08d970d57d0e400ef35abae2602c5d5cd5f842d5/header.jpg?t=1787122285"
+    },
+    "1778820": {
+      "appid": "1778820",
+      "name": "철권 8",
       "genres": "액션",
-      "developers": "The Coalition",
-      "publishers": "Xbox Game Studios",
-      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 한국어, 폴란드어, 포르투갈어 - 브라질*, 러시아어*, 스페인어 - 중남미*, 중국어 번체, 일본어*음성이 지원되는 언어",
-      "price": "$9.99",
-      "release_date": "2025년 8월 26일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/2ba5d8203b18c38fb2d10b14e92a285a850f08ab/header.jpg?t=1757024702"
+      "developers": "Bandai Namco Studios Inc.",
+      "publishers": "Bandai Namco Entertainment",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 아랍어, 일본어, 한국어, 포르투갈어 - 브라질, 중국어 간체, 중국어 번체, 폴란드어, 러시아어, 태국어, 스페인어 - 중남미*음성이 지원되는 언어",
+      "price": "$23.99",
+      "release_date": "2024년 1월 25일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/c7b0b80639fc8c7d386922f414f293ca849e8e81/header.jpg?t=1787180720"
+    },
+    "413150": {
+      "appid": "413150",
+      "name": "Stardew Valley",
+      "genres": "인디, RPG, 시뮬레이션",
+      "developers": "ConcernedApe",
+      "publishers": "ConcernedApe",
+      "languages": "영어, 독일어, 스페인어 - 스페인, 일본어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 프랑스어, 이탈리아어, 헝가리어, 한국어, 튀르키예어",
+      "price": "$14.99",
+      "release_date": "2016년 2월 26일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168"
+    },
+    "2688950": {
+      "appid": "2688950",
+      "name": "플래닛 코스터 2",
+      "genres": "시뮬레이션, 전략",
+      "developers": "Frontier Developments",
+      "publishers": "Frontier Developments",
+      "languages": "영어*, 프랑스어*, 이탈리아어, 독일어*, 스페인어 - 스페인*, 체코어, 네덜란드어, 일본어*, 한국어*, 폴란드어, 포르투갈어 - 브라질, 중국어 간체*, 중국어 번체*음성이 지원되는 언어",
+      "price": "$19.99",
+      "release_date": "2024년 11월 6일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/header_koreana.jpg?t=1787133907"
+    },
+    "1144200": {
+      "appid": "1144200",
+      "name": "Ready or Not",
+      "genres": "액션, 어드벤처, 인디",
+      "developers": "VOID Interactive",
+      "publishers": "VOID Interactive",
+      "languages": "영어*, 프랑스어, 독일어, 한국어, 중국어 간체, 이탈리아어, 스페인어 - 스페인, 일본어, 폴란드어, 포르투갈어 - 포르투갈, 튀르키예어, 러시아어*음성이 지원되는 언어",
+      "price": "$49.99",
+      "release_date": "2023년 12월 13일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1781703931"
+    },
+    "2507950": {
+      "appid": "2507950",
+      "name": "Delta Force",
+      "genres": "액션, 어드벤처, 대규모 멀티플레이어, 무료 플레이",
+      "developers": "Team Jade",
+      "publishers": "TiMi Studio Group",
+      "languages": "영어*, 중국어 간체*, 프랑스어, 독일어, 러시아어, 스페인어 - 중남미, 아랍어, 일본어, 한국어, 포르투갈어 - 브라질, 중국어 번체, 튀르키예어*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2024년 12월 4일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/bf31fa039c6081e011f1ebeba9b9b434e0d1c88d/header_alt_assets_13_koreana.jpg?t=1786330120"
+    },
+    "376210": {
+      "appid": "376210",
+      "name": "The Isle",
+      "genres": "액션, 어드벤처, 인디, 대규모 멀티플레이어, 시뮬레이션, 앞서 해보기",
+      "developers": "Afterthought LLC",
+      "publishers": "Afterthought LLC",
+      "languages": "영어**음성이 지원되는 언어",
+      "price": "$19.99",
+      "release_date": "2015년 12월 1일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/376210/header.jpg?t=1653237914"
+    },
+    "3164500": {
+      "appid": "3164500",
+      "name": "Schedule I",
+      "genres": "액션, 인디, 시뮬레이션, 전략, 앞서 해보기",
+      "developers": "TVGS",
+      "publishers": "TVGS",
+      "languages": "영어**음성이 지원되는 언어",
+      "price": "$19.99",
+      "release_date": "2025년 3월 24일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1785744977"
+    },
+    "2300320": {
+      "appid": "2300320",
+      "name": "Farming Simulator 25",
+      "genres": "시뮬레이션",
+      "developers": "GIANTS Software",
+      "publishers": "GIANTS Software",
+      "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 체코어, 덴마크어, 네덜란드어, 핀란드어, 헝가리어, 일본어, 한국어, 노르웨이어, 폴란드어, 포르투갈어 - 브라질, 포르투갈어 - 포르투갈, 루마니아어, 러시아어, 중국어 간체, 스페인어 - 중남미, 스웨덴어, 중국어 번체, 튀르키예어, 우크라이나어, 베트남어, 인도네시아어*음성이 지원되는 언어",
+      "price": "$29.99",
+      "release_date": "2024년 11월 12일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/c2a205133d23cd24faf3c152d972a1d0177661b8/header.jpg?t=1784811772"
+    },
+    "2073850": {
+      "appid": "2073850",
+      "name": "THE FINALS",
+      "genres": "액션, 무료 플레이",
+      "developers": "Embark Studios",
+      "publishers": "Embark Studios",
+      "languages": "영어*, 프랑스어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 중국어 간체, 중국어 번체, 폴란드어, 튀르키예어*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2023년 12월 7일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/61f55ef49a74c76bf9fda9ec35bc3101eeee2b3e/header.jpg?t=1787220389"
     },
     "1938090": {
       "appid": "1938090",
@@ -1253,7 +1297,7 @@
       "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 한국어, 폴란드어, 러시아어, 중국어 번체, 일본어*, 스페인어 - 중남미*, 아랍어, 중국어 간체*, 포르투갈어 - 브라질**음성이 지원되는 언어",
       "price": "가격 정보 없음",
       "release_date": "2022년 10월 27일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/00ee0d1f8e6f3d351695d0d70603afd3eecd68bf/header_koreana.jpg?t=1784850874"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/00ee0d1f8e6f3d351695d0d70603afd3eecd68bf/header_koreana.jpg?t=1787345761"
     },
     "1063730": {
       "appid": "1063730",
@@ -1341,7 +1385,7 @@
       "languages": "영어*, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체, 스페인어 - 중남미, 튀르키예어*음성이 지원되는 언어",
       "price": "무료",
       "release_date": "2017년 10월 17일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291550/2db0e0cc21262d6a7da18db928b8c374521b4463/header_alt_assets_10.jpg?t=1785948877"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291550/5a626cc4b6ecf79d47927d771dfad799b7f1b145/header_alt_assets_11.jpg?t=1787157167"
     },
     "4000": {
       "appid": "4000",
@@ -1354,6 +1398,17 @@
       "release_date": "2006년 11월 29일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682"
     },
+    "1085660": {
+      "appid": "1085660",
+      "name": "데스티니 가디언즈",
+      "genres": "액션, 어드벤처, 무료 플레이",
+      "developers": "Bungie",
+      "publishers": "Bungie",
+      "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 일본어*, 한국어*, 폴란드어*, 포르투갈어 - 브라질*, 러시아어*, 중국어 간체*, 스페인어 - 중남미*, 중국어 번체*음성이 지원되는 언어",
+      "price": "무료",
+      "release_date": "2019년 10월 1일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/34e901dac9d959129d25c4b7ae8def80df99827e/header_koreana.jpg?t=1781815889"
+    },
     "552990": {
       "appid": "552990",
       "name": "World of Warships",
@@ -1363,7 +1418,7 @@
       "languages": "영어*, 프랑스어*, 독일어*, 체코어, 일본어*, 폴란드어*, 러시아어*, 태국어, 튀르키예어, 스페인어 - 스페인*, 한국어*, 포르투갈어 - 브라질*, 중국어 번체*, 이탈리아어*, 중국어 간체*, 우크라이나어, 네덜란드어*, 스페인어 - 중남미**음성이 지원되는 언어",
       "price": "무료",
       "release_date": "2017년 11월 15일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/4498bcf9554ac64ef685dde5db2431df0f0c3241/header.jpg?t=1786612690"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/4498bcf9554ac64ef685dde5db2431df0f0c3241/header.jpg?t=1787045346"
     },
     "346110": {
       "appid": "346110",
@@ -1475,6 +1530,17 @@
       "release_date": "2023년 2월 10일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1778797474"
     },
+    "438100": {
+      "appid": "438100",
+      "name": "VRChat",
+      "genres": "어드벤처, 캐주얼, 대규모 멀티플레이어, 시뮬레이션, 스포츠, 무료 플레이, 앞서 해보기",
+      "developers": "VRChat Inc.",
+      "publishers": "VRChat Inc.",
+      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 중국어 번체",
+      "price": "무료",
+      "release_date": "2017년 2월 1일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg?t=1762366454"
+    },
     "292030": {
       "appid": "292030",
       "name": "The Witcher 3: Wild Hunt",
@@ -1495,7 +1561,7 @@
       "languages": "영어, 포르투갈어 - 브라질, 스페인어 - 중남미, 스페인어 - 스페인, 한국어, 러시아어, 프랑스어, 이탈리아어, 독일어, 네덜란드어, 일본어, 포르투갈어 - 포르투갈, 중국어 간체, 중국어 번체",
       "price": "$4.99",
       "release_date": "2018년 11월 16일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1781287930"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1787088490"
     },
     "1097150": {
       "appid": "1097150",
@@ -1518,17 +1584,6 @@
       "price": "$19.99",
       "release_date": "2012년 9월 17일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg?t=1751931279"
-    },
-    "227300": {
-      "appid": "227300",
-      "name": "Euro Truck Simulator 2",
-      "genres": "인디, 시뮬레이션",
-      "developers": "SCS Software",
-      "publishers": "SCS Software",
-      "languages": "영어, 독일어, 프랑스어, 이탈리아어, 한국어, 스페인어 - 스페인, 중국어 간체, 러시아어, 일본어, 포르투갈어 - 포르투갈, 폴란드어, 덴마크어, 네덜란드어, 핀란드어, 노르웨이어, 스웨덴어, 헝가리어, 체코어, 루마니아어, 튀르키예어, 포르투갈어 - 브라질, 불가리아어, 그리스어, 우크라이나어, 중국어 번체, 카탈로니아어, 리투아니아어, 세르비아어, 슬로바키아어, 슬로베니아어",
-      "price": "$19.99",
-      "release_date": "2012년 10월 12일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1785394779"
     },
     "892970": {
       "appid": "892970",
@@ -1836,7 +1891,7 @@
       "languages": "영어*, 프랑스어*, 이탈리아어*, 독일어*, 스페인어 - 스페인*, 아랍어*, 일본어*, 한국어*, 포르투갈어 - 포르투갈*, 포르투갈어 - 브라질*, 러시아어, 중국어 간체*, 스페인어 - 중남미*, 중국어 번체*, 튀르키예어*, 인도네시아어, 태국어*음성이 지원되는 언어",
       "price": "무료",
       "release_date": "2021년 9월 29일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1665460/d0f6ca0b2689f1ffbef84c2d12dfe867e0d61872/header.jpg?t=1786573842"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1665460/86619d0fb7126b3d5276004175f9a62181223c0f/header.jpg?t=1787030134"
     },
     "417910": {
       "appid": "417910",
@@ -1889,7 +1944,7 @@
       "developers": "Megame LLC",
       "publishers": "Megame LLC",
       "languages": "영어, 러시아어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 폴란드어, 포르투갈어 - 브라질, 중국어 간체, 태국어, 튀르키예어, 우크라이나어",
-      "price": "$7.49",
+      "price": "$14.99",
       "release_date": "2025년 4월 22일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1116170/header.jpg?t=1778054828"
     },
@@ -1946,7 +2001,7 @@
       "languages": "영어, 프랑스어, 독일어, 스페인어 - 스페인, 폴란드어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 한국어, 일본어",
       "price": "$8.99",
       "release_date": "2015년 3월 10일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg?t=1782396165"
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg?t=1787052832"
     },
     "261550": {
       "appid": "261550",
@@ -2014,6 +2069,17 @@
       "release_date": "2018년 9월 26일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532210/header.jpg?t=1771868183"
     },
+    "2186680": {
+      "appid": "2186680",
+      "name": "Warhammer 40,000: Rogue Trader",
+      "genres": "액션, 어드벤처, 인디, RPG, 전략",
+      "developers": "Owlcat Games",
+      "publishers": "Owlcat Games",
+      "languages": "영어*, 프랑스어, 독일어, 스페인어 - 스페인, 러시아어, 중국어 간체, 일본어, 튀르키예어*음성이 지원되는 언어",
+      "price": "$49.99",
+      "release_date": "2023년 12월 7일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/c7b0bd6f233f6c03fa68eee2fd1108a183329230/header.jpg?t=1781198086"
+    },
     "1238810": {
       "appid": "1238810",
       "name": "Battlefield™ V",
@@ -2024,6 +2090,17 @@
       "price": "$49.99",
       "release_date": "2020년 10월 22일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg?t=1772707365"
+    },
+    "3241660": {
+      "appid": "3241660",
+      "name": "R.E.P.O.",
+      "genres": "액션, 앞서 해보기",
+      "developers": "semiwork",
+      "publishers": "semiwork",
+      "languages": "영어**음성이 지원되는 언어",
+      "price": "$9.99",
+      "release_date": "2025년 2월 26일",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1778158882"
     },
     "221100": {
       "appid": "221100",
@@ -2057,17 +2134,6 @@
       "price": "가격 정보 없음",
       "release_date": "2019년 9월 6일",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089350/header.jpg?t=1663810795"
-    },
-    "632360": {
-      "appid": "632360",
-      "name": "Risk of Rain 2",
-      "genres": "액션, 인디",
-      "developers": "Hopoo Games",
-      "publishers": "Gearbox Publishing, 2K",
-      "languages": "영어, 프랑스어, 이탈리아어, 독일어, 스페인어 - 스페인, 일본어, 한국어, 포르투갈어 - 브라질, 러시아어, 중국어 간체, 튀르키예어",
-      "price": "$24.99",
-      "release_date": "2020년 8월 11일",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg?t=1783621122"
     },
     "1811260": {
       "appid": "1811260",
